@@ -21,12 +21,12 @@ The Content Construction Kit is a resource for Amnesty International Canada writ
 14. Interview
 
 ### Newsroom templates 
-1. Press Release
+1. Press release
 2. Statement
 3. Position
 4. Update
 5. News flash
-6. Media Mention   
+6. Media mention   
 
 ### Tutorials
 ### Examples
