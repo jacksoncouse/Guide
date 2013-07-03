@@ -32,8 +32,8 @@ The Content Construction Kit is a resource for Amnesty International Canada writ
 6. Media mention   
 
 #### Organizing templates
-1. Online action
-2. Event
+1. Action
+2. Activity
 
 ### Tutorials
 ### Examples
