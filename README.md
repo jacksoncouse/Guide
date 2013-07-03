@@ -7,7 +7,7 @@ The Content Construction Kit is a resource for Amnesty International Canada writ
 
 ### Templates
 
-#### General use templates
+#### General use
 1. Blog post
 2. Article
 3. Essay
@@ -23,7 +23,7 @@ The Content Construction Kit is a resource for Amnesty International Canada writ
 13. Inforgraphic
 14. Interview
 
-#### Newsroom templates 
+#### Newsroom
 1. Press release
 2. Statement
 3. Position
@@ -31,7 +31,7 @@ The Content Construction Kit is a resource for Amnesty International Canada writ
 5. News flash
 6. Media mention   
 
-#### Organizing templates
+#### Organizing
 1. Action
 2. Activity
 
