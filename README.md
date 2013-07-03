@@ -5,9 +5,9 @@ The Content Construction Kit is a resource for Amnesty International Canada writ
 
 ## Table of contents
 
-### Content Package templates
+### Content models
 
-#### General
+#### Story packages
 1. Blog post
 2. Article
 3. Essay
@@ -22,18 +22,23 @@ The Content Construction Kit is a resource for Amnesty International Canada writ
 12. Timeline
 13. Inforgraphic
 14. Interview
+15. Press release
+16. Statement
+17. Position
+18. Update
+19. News flash
+20. Media mention   
 
-#### Newsroom
-1. Press release
-2. Statement
-3. Position
-4. Update
-5. News flash
-6. Media mention   
+#### Activity packages
+##### By status
+1. Urgent
+2. Active
+3. Inactive
+4. Archive
 
-#### Organizing
-1. Action
-2. Activity
+##### By Type
+1. Lifesaver
+2. Individuals at Risk
 
 ### Tutorials
 ### Examples
