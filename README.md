@@ -12,7 +12,7 @@ The philosophical foundations of Amnesty International's content strategy are ba
 
 The technical foundations of our publishing ecosystem are two simple, yet powerful, standard systems:
 - YAML, a format for writing metadata (contextual information) designed for human readability and interaction with scripting languages
-- Markdown, an easy-to-read, easy-to-write plain text format that converts easily to HTML (and other formats)
+- Markdown, an easy-to-read, easy-to-write plain text format that converts easily to HTML (and other formats). We use Github-flavoured Markdown, a variant with some enhanced functions.
 
 ## Table of contents
 
