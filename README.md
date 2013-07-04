@@ -1,7 +1,18 @@
 Content Construction Kit
 ==========
 
+### Introduction
+
 The Content Construction Kit is a resource for Amnesty International Canada writers, bloggers, and contributors.
+The CCK is an integral part of Amnesty International Canada's content strategy and the starting-point in our digital publishing workflow.
+
+The philosophical foundations of Amnesty International's content strategy are based on:
+- Create Once, Publish Everywhere (COPE)
+- Lossless, Open, Flexible, Independant (LO-FI)
+
+The technical foundations of our publishing ecosystem are two simple, yet powerful, standard systems:
+- YAML, a format for writing metadata (contextual information) designed for human readability and interaction with scripting languages
+- Markdown, an easy-to-read, easy-to-write plain text format that converts easily to HTML (and other formats)
 
 ## Table of contents
 
