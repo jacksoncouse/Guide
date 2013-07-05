@@ -25,11 +25,11 @@ The CCK uses the Strategic Effectiveness Method for human rights.
 ### Tactics
 
 Our publishing builds on strategic and tactical thinking from several sources:
+- Little Yellow Book
 - New Tactics for human rights
 - 10 Tactics
 - 10 Tactics Remixed
 - 10 Tactics Unstitched
-- Internal tactical documents (?)
 
 ## Outcomes
 
