@@ -4,9 +4,8 @@ Methodology
 ## Philosophy
 
 The philosophical foundations of Amnesty International's content strategy are based on:
-- Don't Repeat Yourself (DRY)
-- Create Once, Publish Everywhere (COPE)
-- Lossless, Open, Flexible, Independant (LO-FI)
+- Create Once, Publish Everywhere (COPE), an extension on the programmer's maxim of "don't repeat yourself" to the digital publishing context
+- Lossless, Open, Flexible, Independant (LO-FI), a set of values for creating content parity across all platforms
 
 ## Technology
 
