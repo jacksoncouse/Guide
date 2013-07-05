@@ -5,7 +5,7 @@ Methodology
 
 The philosophical foundations of Amnesty International Canada's content strategy are based on:
 - [Create Once, Publish Everywhere](http://blog.programmableweb.com/2009/10/13/cope-create-once-publish-everywhere/) (COPE), an extension on the programmer's maxim of "don't repeat yourself" to the digital publishing context
-- [Lossless, Open, Flexible, Independant](http://kairos.technorhetoric.net/12.3/topoi/stolley/) (LO-FI), a set of values for creating content parity across all platforms
+- [Lossless, Open, Flexible, Independant](http://kairos.technorhetoric.net/12.3/topoi/stolley/) (LO-FI), an approach to creating content parity across all platforms
 
 ## Technology
 
