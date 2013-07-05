@@ -15,21 +15,23 @@ The technical foundations of our publishing ecosystem are simple, yet powerful, 
 - File System as Information Management, a platform-independant method of organizing digital assets
 - Git, a version control system
 
-## Measurement
+## Framework
 
-### A content framework for human rights work online
+### Strategies
 
-The CCK uses the Strategic Effectiveness Method for human rights, and builds on strategic and tactical thinking from several sources: 
+The CCK uses the Strategic Effectiveness Method for human rights. 
+
+### Tactics
+
+Our publishing builds on strategic and tactical thinking from several sources:
 - New Tactics for human rights
 - 10 Tactics
 - 10 Tactics Remixed
 - 10 Tactics Unstitched
+- Internal tactical documents (?)
 
-#### Strateguies
+## Outcomes
 
-#### Tactics
-
-### Data collection
+### Measurement
 
 ### Evaluation
-
