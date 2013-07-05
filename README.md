@@ -10,9 +10,11 @@ The philosophical foundations of Amnesty International's content strategy are ba
 - Create Once, Publish Everywhere (COPE)
 - Lossless, Open, Flexible, Independant (LO-FI)
 
-The technical foundations of our publishing ecosystem are two simple, yet powerful, standard systems:
+The technical foundations of our publishing ecosystem are simple, yet powerful, standard systems:
 - YAML, a format for writing metadata (contextual information) designed for human readability and interaction with scripting languages
-- Markdown, an easy-to-read, easy-to-write plain text format that converts easily to HTML (and other formats). We use Github-flavoured Markdown, a variant with some enhanced functions.
+- Markdown, an easy-to-read, easy-to-write plain text format that converts easily to HTML (and other formats).
+- File System as Information Management, a methodology for organizing digital assests
+- Git, a version control system
 
 ## Table of contents
 
