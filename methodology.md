@@ -4,6 +4,7 @@ Methodology
 ## Philosophy
 
 The philosophical foundations of Amnesty International's content strategy are based on:
+- Don't Repeat Yourself (DRY)
 - Create Once, Publish Everywhere (COPE)
 - Lossless, Open, Flexible, Independant (LO-FI)
 
