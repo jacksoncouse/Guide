@@ -10,7 +10,7 @@ The CCK is an integral part of Amnesty International Canada's content strategy a
 
 ### Methodology
 
-[Methodology]("https://github.com/AmnestyInternational/ContentKit/blob/master/methodology.md") provides the background on how the CCK is built:
+[Methodology](https://github.com/AmnestyInternational/ContentKit/blob/master/methodology.md) provides the background on how the CCK is built:
 - Development philosophy 
 - Technology
 - Strategy and tactics 
