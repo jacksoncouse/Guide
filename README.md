@@ -10,6 +10,7 @@ The Content Construction Kit is a resource for Amnesty International Canada writ
 ### Methodology
 
 [Methodology](https://github.com/AmnestyInternational/ContentKit/blob/master/methodology.md) provides the background on how the CCK is built:
+
 - Development philosophy 
 - Technology
 - Strategy and tactics 
@@ -18,6 +19,7 @@ The Content Construction Kit is a resource for Amnesty International Canada writ
 ### Getting Started
 
 New to the CCK? Start here:
+
 - Intro for content-creators: content strategy in the digital publishing environment and a human rights framework
 - Intro to metadata: YAML is your friend
 - Intro to Markdown: a familiar way to write structured text
@@ -29,6 +31,7 @@ New to the CCK? Start here:
 ### Content models
 
 #### Story packages
+
 1. Blog post
 2. Article
 3. Essay
@@ -51,13 +54,16 @@ New to the CCK? Start here:
 20. Media mention   
 
 #### Activity packages
+
 ##### By status
+
 1. Urgent
 2. Active
 3. Inactive
 4. Archive
 
 ##### By Type
+
 1. Lifesaver
 2. Individuals at Risk
 
