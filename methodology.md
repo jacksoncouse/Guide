@@ -3,7 +3,7 @@ Methodology
 
 ## Philosophy
 
-The philosophical foundations of Amnesty International's content strategy are based on:
+The philosophical foundations of Amnesty International Canada's content strategy are based on:
 - Create Once, Publish Everywhere (COPE), an extension on the programmer's maxim of "don't repeat yourself" to the digital publishing context
 - Lossless, Open, Flexible, Independant (LO-FI), a set of values for creating content parity across all platforms
 
@@ -14,6 +14,7 @@ The technical foundations of our publishing ecosystem are simple, yet powerful, 
 - Markdown, an easy-to-read, easy-to-write plain text format that converts easily to HTML (and other formats).
 - File System as Information Management, a platform-independant method of organizing digital assets
 - Git, a version control system
+- Project [LaForge](https://github.com/AmnestyInternational/LaForge), the Amnesty International Canada app development template (currently in development)
 
 ## Framework
 
