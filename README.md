@@ -9,6 +9,7 @@ The CCK is an integral part of Amnesty International Canada's content strategy a
 The philosophical foundations of Amnesty International's content strategy are based on:
 - Create Once, Publish Everywhere (COPE)
 - Lossless, Open, Flexible, Independant (LO-FI)
+- Strategic Effectiveness Method for human rights
 
 The technical foundations of our publishing ecosystem are simple, yet powerful, standard systems:
 - YAML, a format for writing metadata (contextual information) designed for human readability and interaction with scripting languages
