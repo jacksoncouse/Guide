@@ -3,8 +3,7 @@ Content Construction Kit
 
 ### Introduction
 
-The Content Construction Kit is a resource for Amnesty International Canada writers, bloggers, and contributors.
-The CCK is an integral part of Amnesty International Canada's content strategy and the starting-point in our digital publishing workflow.
+The Content Construction Kit is a resource for Amnesty International Canada writers, bloggers, and contributors. The CCK is an integral part of Amnesty International Canada's content strategy and the starting-point in our digital publishing workflow.
 
 ## Table of contents
 
@@ -19,9 +18,13 @@ The CCK is an integral part of Amnesty International Canada's content strategy a
 ### Getting Started
 
 New to the CCK? Start here:
-- Introduction for content-creators: content strategy in the digital publishing environment and a human rights framework
+- Intro for content-creators: content strategy in the digital publishing environment and a human rights framework
 - Intro to metadata: YAML is your friend
 - Intro to Markdown: a familiar way to write structured text
+- Text editors: choosing the right program to help you write
+- Your first post: how to write and submit content for digital publication
+
+### Style guide
 
 ### Content models
 
@@ -59,7 +62,7 @@ New to the CCK? Start here:
 2. Individuals at Risk
 
 ### Tutorials
-### Examples
-### Styleguide
+
+### Best Practices
 
 
