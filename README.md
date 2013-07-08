@@ -5,9 +5,9 @@ Content Construction Kit
 
 The Content Construction Kit is a resource for Amnesty International Canada writers, bloggers, and contributors. The CCK is an integral part of Amnesty International Canada's content strategy and the starting-point in our digital publishing workflow.
 
-See the wiki for full documentation.
+[See the wiki](https://github.com/AmnestyInternational/ContentKit/wiki) for help getting started and full documentation.
 
-## Components
-- Themes
-- Publication packages
-- Activity packages
+## Table of Contents
+- [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/catalogue.md), the filing system for the Amnesty International Canada digital assets
+- Templates, a starting point for generating new digital assets
+- Settings, configuring your machine to create digital assets to Amensty International Canada's specifications
