@@ -2,7 +2,7 @@
 
 ## Subject Classification
 
-The Content Contruction Kit uses a controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) to classify documents and ideas. 
+The Content Contruction Kit uses a controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) system to classify documents and ideas. 
 
 The goal of this system is imporved access to information and exposure of human rights issues by using a standardized vocabulary to talk about human rights violations.
 
