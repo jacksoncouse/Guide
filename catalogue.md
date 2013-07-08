@@ -16,7 +16,7 @@ The CCK uses file-naming conventions to classify and organize documents and file
 
 The goal of this system is document portability and long-term sustainabilty. Based on the [File System Infobase Manager](http://dougist.com/2009/08/file-system-infobase-manager/) technique, the basis of CCK's digital asset management strategy is metadata embedded into the file name.
 
-The core of the CCK asset management strategy is a heirarchy of content area, package, and asset profiles. Like the HRUIDOCS system, the file classification system uses unique alpha-numerical codes to segment digital files by type.
+The core of the CCK asset management strategy is a heirarchy of content area, package, and asset profiles. Like the HURIDOCS system, the file classification system uses unique alpha-numerical codes to segment digital files by type.
 
 1. Publication
 	1. News
