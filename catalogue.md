@@ -8,6 +8,11 @@ subject/theme/topic breakdown
     1. Definition
     1. Measurement
     1. Types
+    	1. absolute and relative poverty
+        1. income inequality: sufficientarianism and egalitarianism
+        1. vulnerability
+        1. deep poverty
+        1. child poverty
     1. Causes
     1. Solutions
     1. Poverty traps
