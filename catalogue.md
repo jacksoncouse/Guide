@@ -1,45 +1,22 @@
 # Index
 
-## Human rights subjects
+## Subject Classification
 
-subject/theme/topic breakdown
+The Content Contruction Kit uses a controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) to classify documents and ideas. 
 
-1. Poverty
-    1. Definition
-    1. Measurement
-    1. Types
-    	1. absolute and relative poverty
-        1. income inequality: sufficientarianism and egalitarianism
-        1. vulnerability
-        1. deep poverty
-        1. child poverty
-    1. Causes
-    1. Solutions
-    1. Poverty traps
-    1. Poverty and economy
-    1. Poverty and human rights
-    1. Poverty and crime
-    1. Poverty and terrorism
-    1. Poverty and psychology
-1. Democracy
-1. Freedom of speech
-1. Migration and citizenship
-1. Discrimination and hate
-1. Equality
-1. Freedom
-1. Violence
-1. Justice
-1. Human rights and the law
-1. Criminal punishment
-1. Human rights problems
-1. Human rights and culture
-1. Human rights and knowledge
-1. Human rights and time
+The goal of this system is imporved access to information and exposure of human rights issues by using a standardized vocabulary to talk about human rights violations.
 
+At the core of the CCK's subject classification system is a categorization of each subject, sub-theme, and sub-topic of human rights using a 'violations' model. 
 
-## Digital objects
+Each subject, sub-theme, and topic category has a unique numerical identifier.
 
-area/package/asset breakdown
+## File Classification
+
+The CCK uses file-naming conventions to classify and organize documents and files.
+
+The goal of this system is document portability and long-term sustainabilty. Based on the [File System Infobase Manager](http://dougist.com/2009/08/file-system-infobase-manager/) technique, the basis of CCK's digital asset management strategy is metadata embedded into the file name.
+
+The core of the CCK asset management strategy is a heirarchy of content area, package, and asset profiles. Like the HRUIDOCS system, the file classification system uses unique alpha-numerical codes to segment digital files by type.
 
 1. Publication
 	1. News
