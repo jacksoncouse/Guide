@@ -71,3 +71,7 @@ The core of the CCK asset management strategy is a heirarchy of content area, pa
 	1. Activity
     1. Action
 1. Transaction
+
+## File formats
+
+and limitations
