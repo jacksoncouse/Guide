@@ -1,8 +1,10 @@
 # Index
 
+The Content Contruction Kit is based on Amnesty Internaional Canada's digital content stragey. This strategy describes how we publish material based on a number of business rules, including the following.
+
 ## Subject Classification
 
-The Content Contruction Kit uses a standardized controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) system to classify human rights documents and ideas. 
+The CCK uses a standardized controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) system to classify human rights documents and ideas. 
 
 The goal of this system is improved access to information and exposure of human rights issues by using a standardized vocabulary to talk about human rights violations.
 
@@ -75,3 +77,7 @@ The core of the CCK asset management strategy is a heirarchy of content area, pa
 ## File formats
 
 and limitations
+
+## File sharing
+
+via dropbox, git.
