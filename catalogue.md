@@ -1,6 +1,6 @@
 # Index
 
-The Content Contruction Kit is based on Amnesty Internaional Canada's digital content stragey. This strategy describes how we publish material based on a number of business rules, including the following.
+The Content Contruction Kit is based on Amnesty Internaional Canada's digital content stragey. This strategy describes how we publish our catalgoue of material based on a number of business rules, including the following.
 
 ## Subject Classification
 
