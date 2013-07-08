@@ -21,7 +21,7 @@ The goal of this system is document portability and long-term sustainabilty. Bas
 The core of the CCK asset management strategy is a heirarchy of content area, package, and asset profiles. Like the HURIDOCS system, the file classification system uses unique alpha-numerical codes to segment digital files by type.
 
 1. Publication
-	1. News
+    1. News
     	1. Press release
         1. Press update
         1. Press advisory
@@ -33,6 +33,7 @@ The core of the CCK asset management strategy is a heirarchy of content area, pa
         1. Newsletter
         1. Digest
         1. News flash
+        2. RSS Feed
     1. Reference
     	1. Refernece sheet
         1. F.A.Q.
