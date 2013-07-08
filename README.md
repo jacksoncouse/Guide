@@ -12,4 +12,4 @@ The goal of the CCK is to establish of a foundation of resources and principles 
 ## Table of Contents
 - [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/catalogue.md), the filing system for Amnesty International Canada digital assets
 - Templates, a starting point for generating new digital assets
-- Settings, configuring your machine to create digital assets to Amensty International Canada's specifications
+- Settings, for configuring your machine to create digital assets to Amensty International Canada's specifications
