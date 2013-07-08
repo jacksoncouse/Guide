@@ -4,7 +4,7 @@
 
 The Content Contruction Kit uses a controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) system to classify human rights documents and ideas. 
 
-The goal of this system is imporved access to information and exposure of human rights issues by using a standardized vocabulary to talk about human rights violations.
+The goal of this system is improved access to information and exposure of human rights issues by using a standardized vocabulary to talk about human rights violations.
 
 At the core of the CCK's subject classification system is a categorization of each subject, sub-theme, and sub-topic of human rights using a 'violations' model. 
 
