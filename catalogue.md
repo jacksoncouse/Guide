@@ -46,7 +46,7 @@ The core of the CCK asset management strategy is a heirarchy of content area, pa
         1. Report
         1. Article
         1. Project update
-        1. E-mail
+        1. RSS Feed
     1. Blog
     	1. Post
         1. RSS feed
@@ -70,11 +70,15 @@ The core of the CCK asset management strategy is a heirarchy of content area, pa
     1. Personality
     	1. Person
         1. Group
+        1. RSS Feed
 1. Communication
 	1. Activity
     1. Action
+    1. E-mail
 1. Transaction
-
+	1. Sign-up
+    1. Donation
+    
 ## File formats
 
 and limitations
