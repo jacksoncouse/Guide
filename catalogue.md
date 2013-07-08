@@ -4,7 +4,6 @@
 
 subject/theme/topic breakdown
 
-### Subject Areas
 1. Poverty
     1. Definition
     1. Measurement
