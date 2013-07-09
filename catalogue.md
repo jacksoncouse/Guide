@@ -2,7 +2,13 @@
 
 The Content Contruction Kit is based on Amnesty Internaional Canada's digital content stragey. This strategy describes how we publish our catalgoue of material based on a number of business rules, including the following.
 
-## Subject Classification
+## The Story
+
+The story is the basic unit - the "atom" - of our content system. Any number of ideas and assets can go into making a story, but a story is always the genesis of the need to publish. 
+
+The CCK is organized around this idea: stories are of composed of ideas and assets, each with a set of characteristics and needs. By understanding, classifying, and combining ideas and assets, we can publish effectively.
+
+### Subject Classification
 
 The CCK uses a standardized controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) system to classify human rights documents and ideas. 
 
@@ -12,7 +18,7 @@ At the core of the CCK's subject classification system is a categorization of ea
 
 Each subject, sub-theme, and topic category has a unique numerical identifier.
 
-## File Classification
+### File Classification
 
 The CCK uses file-naming conventions to classify and organize documents and files.
 
@@ -79,10 +85,6 @@ The core of the CCK asset management strategy is a heirarchy of content area, pa
 	1. Sign-up
     1. Donation
     
-## File formats
+### File formats
 
 and limitations
-
-## File sharing
-
-via dropbox, git.
