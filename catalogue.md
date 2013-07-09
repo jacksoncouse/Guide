@@ -49,7 +49,6 @@ The core of the CCK asset management strategy is a heirarchy of content area, pa
         1. RSS Feed
     1. Blog
     	1. Post
-    	2. Category
         1. RSS feed
         1. Podcast
         1. Comment
