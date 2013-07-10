@@ -8,6 +8,12 @@ The story is the basic unit - the "atom" - of our content system. Any number of 
 
 The CCK is organized around this idea: stories are of composed of ideas and assets, each with a set of characteristics and needs. By understanding, classifying, and combining ideas and assets, we can publish effectively.
 
+## The Catalogue
+
+Think of a graph with two axis. On one, put ideas, or "subjects," we communicate about in our human rights work. On the other, put all of the different kinds of communications, or "assets" we do in service of promoting human rights. With these two axis, every publication we make can be classified, filed, and, most imprortantly, *related to one another*. By catalogueing our work we make it searchable, dynamic, and useful. 
+
+This catalogue describes all the possible permutations of communications products with a classification vocabulary. The catalogue is the basis of a holistic and flexible system of talking about human rights with communications, activist, or witness vocabulary.
+
 ### Subject Classification
 
 The CCK uses a standardized controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) system to classify human rights documents and ideas. 
