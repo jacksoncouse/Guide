@@ -16,7 +16,7 @@ This catalogue describes all the possible permutations of communications product
 
 ### Subject Classification
 
-The CCK uses a standardized controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) system to classify human rights documents and ideas. 
+The CCK uses a standardized controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) system to classify human rights ideas. 
 
 The goal of this system is to improve access to information and exposure of human rights issues by using a standardized vocabulary to talk about human rights violations.
 
