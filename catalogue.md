@@ -4,7 +4,7 @@ The Content Contruction Kit is based on Amnesty Internaional Canada's digital co
 
 ## The Story
 
-The story is the basic unit - the "atom" - of our content system. Any number of ideas and assets can go into making a story, but a story is always the genesis of the need to publish. 
+The story is the basic unit - the "atom" - of our content system. A story can be told in many different ways, but the story is always the genesis of the need to publish. 
 
 The CCK is organized around this idea: stories are of expressed as ideas and assets, each with a set of characteristics and needs. By understanding, classifying, and combining ideas and assets, we can publish effectively.
 
