@@ -10,7 +10,7 @@ The CCK is organized around this idea: stories are of composed of ideas and asse
 
 ## The Catalogue
 
-Think of a graph with two axis. On one, put all the ideas we communicate about in our human rights work. On the other, put all of the different kinds of communications products we produce in service of promoting human rights. With these two axis, every publication we make can be classified, filed, and, most imprortantly, *related to one another*. By catalogueing our work we make it searchable, dynamic, and useful. 
+Think of a graph with two axis. On one, put all the ideas we communicate about in our human rights work. On the other, put all of the different kinds of communications products we produce in service of promoting human rights. With these two axis, each and every story can be classified, filed, and, most imprortantly, *related to one another*. By catalogueing our stories we make them searchable, dynamic, and relevant. 
 
 This catalogue describes all the possible permutations of communications products with a classification vocabulary. The catalogue is the basis of a holistic and flexible system of talking about human rights with communications, activist, or witness vocabulary.
 
