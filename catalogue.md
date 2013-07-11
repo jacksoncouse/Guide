@@ -26,6 +26,13 @@ Each subject, sub-theme, and topic category has a unique numerical identifier.
 
 TO-DO
 
+- [ ] a task list item
+- [ ] list syntax required
+- [ ] normal **formatting**, @mentions, #1234 refs
+- [ ] incomplete
+- [x] completed
+
+
 - [ ] define subject classification system needs. Issue #1
 - [ ] identify solutions: HHURIDOCS, Amnesty internal, or otherwise
 - [ ] create subset of specification for application in web content creation system
