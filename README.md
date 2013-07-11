@@ -18,7 +18,7 @@ The goal of the CCK is to establish of a foundation of resources and principles 
 
 ### Catalogue
 
-- [ ] define subject classification system needs. Issue #1
+- [ ] define subject classification system needs. Issue #1 for @jacksoncouse and @wiki-d
 - [ ] identify solutions: HHURIDOCS, Amnesty internal, or otherwise
 - [ ] create subset of specification for application in web content creation system
 - [ ] write cheat-sheet for content creators
