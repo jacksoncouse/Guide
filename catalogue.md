@@ -24,20 +24,6 @@ At the core of the CCK's subject classification system is a categorization of ea
 
 Each subject, sub-theme, and topic category has a unique numerical identifier.
 
-TO-DO
-
-- [ ] a task list item
-- [ ] list syntax required
-- [ ] normal **formatting**, @mentions, #1234 refs
-- [ ] incomplete
-- [x] completed
-
-
-- [ ] define subject classification system needs. Issue #1
-- [ ] identify solutions: HHURIDOCS, Amnesty internal, or otherwise
-- [ ] create subset of specification for application in web content creation system
-- [ ] write cheat-sheet for content creators
-
 ### File Classification
 
 The CCK uses file-naming conventions to classify and organize documents and files.
