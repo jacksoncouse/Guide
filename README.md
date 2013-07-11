@@ -13,3 +13,15 @@ The goal of the CCK is to establish of a foundation of resources and principles 
 - [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/catalogue.md), the filing system for Amnesty International Canada digital assets
 - Templates, a starting point for generating new digital assets
 - Settings, for configuring your machine to create digital assets to Amensty International Canada's specifications
+
+## To Do
+
+### Catalogue
+
+- [ ] define subject classification system needs. Issue #1
+- [ ] identify solutions: HHURIDOCS, Amnesty internal, or otherwise
+- [ ] create subset of specification for application in web content creation system
+- [ ] write cheat-sheet for content creators
+- [ ] write file naming convention guide and example
+
+### Wiki
