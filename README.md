@@ -34,6 +34,7 @@ For generating new digital assets
 #### Standard assets
 
 - Logos
+- Colours
 - Fonts
 - Slogans
 
