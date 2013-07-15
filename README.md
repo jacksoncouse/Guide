@@ -9,7 +9,7 @@ The goal of the CCK is to establish of a foundation of resources and principles 
 
 Note, the CCK is currently under active development.
 
-## Table of Contents
+## Contents
 
 ### Tutorials
 
