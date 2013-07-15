@@ -10,7 +10,7 @@ The goal of the CCK is to establish of a foundation of resources and principles 
 Note, the CCK is currently under active development.
 
 
-## Tutorials
+## Learn
 
 The [CCK Wiki](https://github.com/AmnestyInternational/ContentKit/wiki) is the place for help getting started, and full documentation.
 
@@ -24,7 +24,7 @@ The [CCK Wiki](https://github.com/AmnestyInternational/ContentKit/wiki) is the p
 
 Advanced tutorials are available on the [CCK Wiki](https://github.com/AmnestyInternational/ContentKit/wiki).
 
-## Resources
+## Create
 
 ### Templates
 
@@ -51,7 +51,7 @@ The [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/c
 
 For configuring your machine to create digital assets to Amensty International Canada's specifications.
 
-## Deployment
+## Publish
 
 How to get your work online.
 
