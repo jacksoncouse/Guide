@@ -6,6 +6,7 @@ Welcome to the template repository. These templates are the starting-point for A
 Templates are made up of two sections: a YAML header and a Markdown body. Content in the templates is seperated into "chunks;" peices of content that can quickly and easily be recycled accross a wide range of platforms. As illustrated in the example below, everything between the lines is header and everything after the lines is the page content of the post:
 
 '
+
 <span>---</span>
 published: true
 author: jsmith
