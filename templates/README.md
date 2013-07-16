@@ -17,6 +17,7 @@ Templates are made up of two sections: a YAML header and a Markdown body. Conten
     topics: "dash-seperated-values-of-blog-categories, another-dashed-category"
     seo-keywords: "human rights, Canada, licorice"
     layout: blog
+    ---
     
     This area is were the body copy goes.
 
