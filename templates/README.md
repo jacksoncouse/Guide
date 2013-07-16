@@ -28,8 +28,8 @@ See "[Getting started](https://github.com/AmnestyInternational/ContentKit/wiki#g
 There are only a few simple templates in the Kit:
 
 1. **Page** - A story of corporate origin
-1. **Post** - A story of immediate, personal origin 
-1. **Identity** - A story about an author
+1. **Post** - A story of personal origin 
+1. **Bio** - A story about an author
 1. **Event** - A story about a thing that has or will happen
 1. **Message** - A story sent to a specific person of group of persons
 
