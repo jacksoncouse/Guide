@@ -37,15 +37,9 @@ For generating new digital assets
 - Fonts
 - Slogans
 
-## Implementation
-
 ### Style guide
 
 ### Best practices
-
-### Catalogue
-
-The [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/catalogue.md), the filing system for Amnesty International Canada digital assets and human rights ideas
 
 ### Settings
 
@@ -55,3 +49,14 @@ For configuring your machine to create digital assets to Amensty International C
 
 How to get your work online.
 
+### Catalogue
+
+The [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/catalogue.md), the filing system for Amnesty International Canada digital assets and human rights ideas
+
+### Submit
+
+For occasional and guest authors.
+
+### Post
+
+For trusted authors who publish regularly.
