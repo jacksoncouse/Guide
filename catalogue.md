@@ -28,11 +28,13 @@ Each subject, sub-theme, and topic category has a unique numerical identifier.
 
 The CCK uses file-naming conventions to classify and organize documents and files. 
 
-Naming things is one of the hardest things to do in computer science. The goal of the CCK filing system has several goals: long-term sustainabilty, ease of use, platform independacne, and portability. 
+Naming things is one of the hardest things to do in computer science. The CCK filing system uses codes to organize all of the various digital assets that go into making a story. What this means, basically, is that the way you name your files tells our system where they should be published. The goal of this system is long-term sustainabilty, ease of use, platform independacne, and portability for all of our documents.
 
-The core of the CCK asset management strategy is a heirarchy of content area, package, and asset profiles. Like the HURIDOCS system, the file classification system uses unique alpha-numerical codes to segment digital files by type and purpose, thereby embedding metadata right into the file name.
+#### File naming conventions
 
-Files must be submitted wit the following format: `YYMMDD-###-story-name.file`, where `YYMMDD` is the file creation date and `###` is the content-type claissification (full listing of types below). That is, `file creation date` dash `classification` dash `story name` dot `file type abbreviation`.
+You have to name your files according to the codes for the system to work. 
+
+Files must be named with the following format: `YYMMDD-###-story-name.file`, where `YYMMDD` is the file creation date and `###` is the content-type classification (full listing of types below). That is, `file creation date`-`classification`-`story name`.`file type abbreviation`, all without spaces (use dashes instead).
 
 This chart gives an example, for a story about the Zimbabwe election:
 
