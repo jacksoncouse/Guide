@@ -25,12 +25,11 @@ See "[Getting started](https://github.com/AmnestyInternational/ContentKit/wiki#g
 
 ## Available templates
 
-The Kit uses five simple templates, each covering a key aspect of our communications output:
+The Kit uses simple templates, each covering a key aspect of our communications output:
 
 1. Post - a human rights story, including: News, Reference, Project, Blog, and Media  
 1. Bio - the story of a person, or group of people; be they an author, volunteer, board member, individual, or collective 
 1. Event - A story about a thing that will happen, or has happened, in which people can participate
-1. Activity - A story which explicitly asks people to do something: click a link, sign a petition, send a letter, and so on
 1. Job - an opportunity to participate in Amnesty International's work and the movement. Paid and volunteer.
 1. Message - A story sent to a specific person of group of persons
 

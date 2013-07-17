@@ -41,8 +41,8 @@ This chart gives an example, for a story about the Zimbabwe election:
 | File name | Translation |
 | ------- | --------- |
 | `130715-N03-Zimbabwe-election-violence.md` | Press advisory text for a story on Zimbabwe election violence, created July 15th, 2013 |
-| `130710-M01-Zimbabwe-election-violence.md` | Photograph for a story on Zimbabwe election violence, created July 15th, 2013 |
-| `130715-M03-Zimbabwe-election-violence.md` | Map for a story on Zimbabwe election violence, created July 15th, 2013 |
+| `130710-M01-Zimbabwe-election-violence.jpg` | Photograph for a story on Zimbabwe election violence, created July 15th, 2013 |
+| `130715-M03-Zimbabwe-election-violence.md` | Map code for a story on Zimbabwe election violence, created July 15th, 2013 |
 
 The story above is about the Zimbabwe election. The story assets are a press advisory text, a photograph, and a map. The text and map were created on July 15th (probably by persons in the Amnesty office), the photograph created five days earlier (likely by someone on the ground). Together, these items form the story package.
 
@@ -50,10 +50,11 @@ The story above is about the Zimbabwe election. The story assets are a press adv
 
 ##### Publication
 
-- **N**ews
-   	1. N01 Press release 
-    1. N02 Press update 
-    1. N03 Press advisory
+| Story type | Asset |
+| ---------- | ----- |
+| News | 1. Press release 
+    1. Press update 
+    1. Press advisory
     1. Media briefing 
     1. Statement
     1. Position
@@ -61,25 +62,25 @@ The story above is about the Zimbabwe election. The story assets are a press adv
     1. Media coverage
     1. Newsletter
     1. Digest
-    1. News flash
-- **R**eference
+    1. News flash |
+| Reference |
   	1. Report
   	2. Article
     1. F.A.Q.
     1. Legal document
     1. Database
-    1. Guide
-- **P**roject
+    1. Guide |
+| Project |
    	1. Essay
     1. Fact sheet
     1. Project report
-    1. Project update
-- **B**log
+    1. Project update |
+| Blog |
    	1. Post
     1. RSS feed
     1. Podcast
-    1. Comment
-- **M**edia
+    1. Comment |
+| Media |
   	1. Photo
     1. Graphic
     1. Map
@@ -94,31 +95,33 @@ The story above is about the Zimbabwe election. The story assets are a press adv
     1. Transcription
     1. Software
     1. PDF
-    1. Advertisement
+    1. Advertisement |
 
 ##### Interaction
 
-- **T**ask
+| Task | 
     1. Singular
     1. Recurring
-    1. Continual
-- **E**vent
+    1. Continual |
+| Event | 
     1. Singular
     1. Recurring
-    1. Continual
-- **I**dentity
+    1. Continual |
+| Identity |
     1. Person
-    1. Group
-- **M**essage
+    1. Group |
+| Message |
     1. Solicitation
     1. Information
-    1. Follow-up
+    1. Follow-up |
 
 ##### Transaction
 
-- **F**orm
-- **C**onfirmation
+| Form | 
+    1. Monetary
+    1. Non-monetary |
+| Confirmation |
+    1. Monetary
+    1. Non-monetary |
 
-### File formats
-
-and limitations
+For file specifications and requirements, see the File Type Specifications.
