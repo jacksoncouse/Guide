@@ -26,15 +26,28 @@ Each subject, sub-theme, and topic category has a unique numerical identifier.
 
 ### File Classification
 
-The CCK uses file-naming conventions to classify and organize documents and files.
+The CCK uses file-naming conventions to classify and organize documents and files. 
 
-The goal of this system is document portability and long-term sustainabilty. Based on the [File System Infobase Manager](http://dougist.com/2009/08/file-system-infobase-manager/) technique, the basis of CCK's digital asset management strategy is metadata embedded into the file name.
+Naming things is one of the hardest things to do in computer science. The goal of the CCK filing system has several goals: long-term sustainabilty, ease of use, platform independacne, and portability. 
 
-The core of the CCK asset management strategy is a heirarchy of content area, package, and asset profiles. Like the HURIDOCS system, the file classification system uses unique alpha-numerical codes to segment digital files by type.
+The core of the CCK asset management strategy is a heirarchy of content area, package, and asset profiles. Like the HURIDOCS system, the file classification system uses unique alpha-numerical codes to segment digital files by type and purpose, thereby embedding metadata right into the file name.
+
+Files must be submitted wit the following format: 'YYMMDD-###-story-name.file', where YYMMDD is the file creation date and ### is the content-type claissification (full listing of types below). That is, 'file creation date' dash 'classification' dash 'story name' dot 'file type'
+
+This chart gives an example, for a story about the Zimbabwe election:
+
+| File name | Translation |
+| '130715-N03-Zimbabwe-election-violence.md' | Press advisory text for a story on Zimbabwe election violence, created July 15th, 2013 |
+| '130710-M01-Zimbabwe-election-violence.md' | Photograph for a story on Zimbabwe election violence, created July 15th, 2013 |
+| '130715-M03-Zimbabwe-election-violence.md' | Map for a story on Zimbabwe election violence, created July 15th, 2013 |
+
+The story above is about the Zimbabwe election. The story assets are a press advisory text, a photograph, and a map. The text and map were created on July 15th (probably by persons in the Amnesty office), the photograph created five days earlier (likely by someone on the ground). Together, these items form the story package.
+
+// TO CREATE filetype restrictions and field restriction information
 
 1. Publication
-    1. News
-    	1. Press release
+    1. **N**ews
+    	1. Press release ()
         1. Press update
         1. Press advisory
         1. Media briefing 
@@ -45,29 +58,27 @@ The core of the CCK asset management strategy is a heirarchy of content area, pa
         1. Newsletter
         1. Digest
         1. News flash
-        2. RSS Feed
-    1. Reference
+    1. **R**eference
     	1. Report
     	2. Article
-	1. Refernece sheet
         1. F.A.Q.
         1. Legal document
         1. Database
         1. Guide
-    1. Project
+    1. **P**roject
     	1. Essay
         1. Fact sheet
         1. Project report
         1. Project update
-        1. RSS Feed
-    1. Blog
+    1. **B**log
     	1. Post
         1. RSS feed
         1. Podcast
         1. Comment
-    1. Media
+    1. **M**edia
     	1. Photo
         1. Graphic
+        1. Map
         1. Icon
         1. Audio file
         1. Video
@@ -80,18 +91,26 @@ The core of the CCK asset management strategy is a heirarchy of content area, pa
         1. Software
         1. Form
         1. Advertisement
-    1. Personality
-    	1. Person
+1.Interaction
+    1. **J**ob
+        1. Singular
+        1. Recurring
+        1. Continual
+    1. **E**vent
+        1. Singular
+        1. Recurring
+        1. Continual
+    1. **I**dentity
+        1. Person
         1. Group
-        1. RSS Feed
-1. Communication
-	1. Activity
-    1. Action
-    1. E-mail
+    1. **M**essage
+        1. Solicitation
+        1. Information
+        1. Follow-up
 1. Transaction
-	1. Sign-up
-    1. Donation
-    
+    1. **F**orm
+    1. **C**onfirmation
+
 ### File formats
 
 and limitations

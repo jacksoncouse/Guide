@@ -3,7 +3,7 @@ Templates
 
 Welcome to the template repository. These templates are the starting-point for Amnesty International Content. 
 
-Templates are made up of two sections: a YAML header and a Markdown body. Content in the templates is seperated into "chunks;" peices of content that can quickly and easily be recycled accross a wide range of platforms. As illustrated in the example below, everything between the lines is header and everything after the lines is the page content of the post:
+Templates are made up of two sections: a YAML header and a Markdown body. Content in the templates is seperated into "chunks;" peices of content that can be quickly and easily recycled accross a wide range of platforms. As illustrated in the example below, everything _between_ the dashed lines is header and everything _after_ the dashed lines is the page content of the post:
 
     ---
     published: true
@@ -25,11 +25,12 @@ See "[Getting started](https://github.com/AmnestyInternational/ContentKit/wiki#g
 
 ## Available templates
 
-There are only a few simple templates in the Kit:
+The Kit uses five simple templates, each covering a key aspect of our communications output:
 
-1. **Page** - A story of corporate origin
-1. **Post** - A story of personal origin 
-1. **Bio** - A story about an author
-1. **Event** - A story about a thing that has or will happen
-1. **Message** - A story sent to a specific person of group of persons
+1. Story - the base unit of content online, including: News, Reference, Project, Blog, Media  
+1. Bio - the story of a person, or group of people; be they an author, volunteer, board member, individual, or collective 
+1. Event - A story about a thing that will happen, or has happened, in which people can participate
+1. Activity - A story which explicitly asks people to do something: click a link, sign a petition, send a letter, and so on
+1. Job - an opportunity to participate in Amnesty International's work and the movement. Paid and volunteer.
+1. Message - A story sent to a specific person of group of persons
 
