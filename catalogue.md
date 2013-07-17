@@ -38,9 +38,9 @@ This chart gives an example, for a story about the Zimbabwe election:
 
 | File name | Translation |
 | ------- | --------- |
-| '130715-N03-Zimbabwe-election-violence.md' | Press advisory text for a story on Zimbabwe election violence, created July 15th, 2013 |
-| '130710-M01-Zimbabwe-election-violence.md' | Photograph for a story on Zimbabwe election violence, created July 15th, 2013 |
-| '130715-M03-Zimbabwe-election-violence.md' | Map for a story on Zimbabwe election violence, created July 15th, 2013 |
+| `130715-N03-Zimbabwe-election-violence.md` | Press advisory text for a story on Zimbabwe election violence, created July 15th, 2013 |
+| `130710-M01-Zimbabwe-election-violence.md` | Photograph for a story on Zimbabwe election violence, created July 15th, 2013 |
+| `130715-M03-Zimbabwe-election-violence.md` | Map for a story on Zimbabwe election violence, created July 15th, 2013 |
 
 The story above is about the Zimbabwe election. The story assets are a press advisory text, a photograph, and a map. The text and map were created on July 15th (probably by persons in the Amnesty office), the photograph created five days earlier (likely by someone on the ground). Together, these items form the story package.
 
