@@ -43,73 +43,78 @@ This chart gives an example, for a story about the Zimbabwe election:
 
 The story above is about the Zimbabwe election. The story assets are a press advisory text, a photograph, and a map. The text and map were created on July 15th (probably by persons in the Amnesty office), the photograph created five days earlier (likely by someone on the ground). Together, these items form the story package.
 
-// TO CREATE filetype restrictions and field restriction information
+#### File classification by story type
 
-1. Publication
-    1. **N**ews
-    	1. Press release ()
-        1. Press update
-        1. Press advisory
-        1. Media briefing 
-        1. Statement
-        1. Position
-        1. Editorial
-        1. Media coverage
-        1. Newsletter
-        1. Digest
-        1. News flash
-    1. **R**eference
-    	1. Report
-    	2. Article
-        1. F.A.Q.
-        1. Legal document
-        1. Database
-        1. Guide
-    1. **P**roject
-    	1. Essay
-        1. Fact sheet
-        1. Project report
-        1. Project update
-    1. **B**log
-    	1. Post
-        1. RSS feed
-        1. Podcast
-        1. Comment
-    1. **M**edia
-    	1. Photo
-        1. Graphic
-        1. Map
-        1. Icon
-        1. Audio file
-        1. Video
-        1. Data set
-        1. Slideshow
-        1. Infographic
-        1. Timeline
-        1. Interview
-        1. Transcription
-        1. Software
-        1. Form
-        1. Advertisement
-1.Interaction
-    1. **J**ob
-        1. Singular
-        1. Recurring
-        1. Continual
-    1. **E**vent
-        1. Singular
-        1. Recurring
-        1. Continual
-    1. **I**dentity
-        1. Person
-        1. Group
-    1. **M**essage
-        1. Solicitation
-        1. Information
-        1. Follow-up
-1. Transaction
-    1. **F**orm
-    1. **C**onfirmation
+##### Publication
+
+- **N**ews
+   	1. N01 Press release 
+    1. N02 Press update 
+    1. N03 Press advisory
+    1. Media briefing 
+    1. Statement
+    1. Position
+    1. Editorial
+    1. Media coverage
+    1. Newsletter
+    1. Digest
+    1. News flash
+- **R**eference
+  	1. Report
+  	2. Article
+    1. F.A.Q.
+    1. Legal document
+    1. Database
+    1. Guide
+- **P**roject
+   	1. Essay
+    1. Fact sheet
+    1. Project report
+    1. Project update
+- **B**log
+   	1. Post
+    1. RSS feed
+    1. Podcast
+    1. Comment
+- **M**edia
+  	1. Photo
+    1. Graphic
+    1. Map
+    1. Icon
+    1. Audio file
+    1. Video
+    1. Data set
+    1. Slideshow
+    1. Infographic
+    1. Timeline
+    1. Interview
+    1. Transcription
+    1. Software
+    1. PDF
+    1. Advertisement
+
+##### Interaction
+
+- **T**ask
+    1. Singular
+    1. Recurring
+    1. Continual
+- **E**vent
+    1. Singular
+    1. Recurring
+    1. Continual
+- **I**dentity
+    1. Person
+    1. Group
+- **M**essage
+    1. Solicitation
+    1. Information
+    1. Follow-up
+
+##### Transaction
+
+- **F**orm
+- **C**onfirmation
 
 ### File formats
 
