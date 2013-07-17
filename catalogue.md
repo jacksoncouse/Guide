@@ -32,11 +32,12 @@ Naming things is one of the hardest things to do in computer science. The goal o
 
 The core of the CCK asset management strategy is a heirarchy of content area, package, and asset profiles. Like the HURIDOCS system, the file classification system uses unique alpha-numerical codes to segment digital files by type and purpose, thereby embedding metadata right into the file name.
 
-Files must be submitted wit the following format: 'YYMMDD-###-story-name.file', where YYMMDD is the file creation date and ### is the content-type claissification (full listing of types below). That is, 'file creation date' dash 'classification' dash 'story name' dot 'file type'
+Files must be submitted wit the following format: `YYMMDD-###-story-name.file`, where `YYMMDD` is the file creation date and `###` is the content-type claissification (full listing of types below). That is, `file creation date` dash `classification` dash `story name` dot `file type abbreviation`.
 
 This chart gives an example, for a story about the Zimbabwe election:
 
 | File name | Translation |
+| ------- | --------- |
 | '130715-N03-Zimbabwe-election-violence.md' | Press advisory text for a story on Zimbabwe election violence, created July 15th, 2013 |
 | '130710-M01-Zimbabwe-election-violence.md' | Photograph for a story on Zimbabwe election violence, created July 15th, 2013 |
 | '130715-M03-Zimbabwe-election-violence.md' | Map for a story on Zimbabwe election violence, created July 15th, 2013 |
