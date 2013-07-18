@@ -93,14 +93,14 @@ The story above is about the Zimbabwe election. The story assets are a press adv
 
 ##### Interaction types
 
-| ID | Publication | Asset | File
+| ID | Interaction | Asset | File
 | --- | ---------- | ----- | ----- |
 | T01 | Task | Singular | .md text
 | T02 | Task | Recurring | .md text
 | T03 | Task | Continual | .md text 
-| E01 | Event | Singular | .md text
-| E02 | Event | Recurring | .md text
-| E03 | Event | Continual | .md text 
+| V01 | Event | Singular | .md text
+| V02 | Event | Recurring | .md text
+| V03 | Event | Continual | .md text 
 | I01 | Identity | Person | .md text
 | I02 | Identity | Group | .md text 
 | E01 | E-mail | Solicitation | .md text
@@ -109,7 +109,7 @@ The story above is about the Zimbabwe election. The story assets are a press adv
 
 ##### Transaction types
 
-| ID | Publication | Asset | File
+| ID | Transaction | Asset | File
 | --- | ---------- | ----- | ----- |
 | F01 | Form | Monetary | HTML5
 | F02 | Form | Non-monetary | HTML5 
