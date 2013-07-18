@@ -4,31 +4,25 @@ The Content Contruction Kit is based on Amnesty Internaional Canada's digital co
 
 ## The Story
 
-The story is the basic unit - the "atom" - of our content system. A story can be told in many different ways, but the story is always the genesis of the need to publish. 
-
-The CCK is organized around this idea: stories are of expressed as ideas and assets, each with a set of characteristics and needs. By understanding, classifying, and combining ideas and assets, we can publish effectively.
+The story is the basic unit - the _"atom"_ - of our content system. A story can be told in many different ways, but the story is always the genesis of the need to publish. Like an atom, a story is a complete unit made up of a few simple parts (we call them assets) that combine and relate to one another. The CCK is organized around this idea: stories are of expressed as ideas and assets, each with a set of characteristics and needs. The grand narrative we are telling about Amnesty International and human rights is made of stories.
 
 ## The Catalogue
 
-Think of a graph with two axis. On one, put all the ideas we communicate about in our human rights work. On the other, put all of the different kinds of communications products we produce in service of promoting human rights. With these two axis, each and every story can be classified, filed, and, most imprortantly, *related to one another*. By catalogueing our stories we make them searchable, dynamic, and relevant. 
+The catalogue organizes our public communications by idea, type, and time. The catalogue puts all of the atoms in all their correct places.
 
-This catalogue describes all the possible permutations of communications products with a classification vocabulary. The catalogue is the basis of a holistic and flexible system of talking about human rights with communications, activist, or witness vocabulary.
+Think of a graph. On one axis, we plot all of the ideas we communicate about in our human rights work. On another axis, we plot all of the different kinds of communications products we produce. On the third axis, we plot time. This is how the CCK catalogue works: we organize and encode include all of our publishing work, each and every story classified, filed, and, most imprortantly, *related to one another*. By catalogueing our stories we make them searchable, dynamic, and relevant. 
 
 ### Subject Classification
 
-The CCK uses a standardized controlled vocabulary based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) and [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) system to classify human rights ideas. 
+The CCK will use a metadata system based on the HURIDOCS [Standard Format](http://www.huridocs.org/resource/huridocs-events-standard-formats/) [Micro-Thesauri](http://www.huridocs.org/resource/micro-thesauri/) to classify human rights ideas and attach those ideas to documents. This system uses a "violations" model and unique numerical identifier to classify human rights issues.
 
-The goal of this system is to improve access to information and exposure of human rights issues by using a standardized vocabulary to talk about human rights violations.
-
-At the core of the CCK's subject classification system is a categorization of each subject, sub-theme, and sub-topic of human rights using a 'violations' model. 
-
-Each subject, sub-theme, and topic category has a unique numerical identifier.
+The purpose adopting of this system is to create a standardized, open, and complete vocabulary for classifying human rights violations, thereby increaing access to information and exposure of human rights issues.
 
 ### File Classification
 
-The CCK uses file-naming conventions to classify and organize documents and files. 
+Naming things is one of the hardest things to do in computer science, and it gets especially tricky when many different people and machines are involved. The system we use is based on a simple, but strict, file-naming conventions. We use a combination of dates, codes, and names (the three things we need, as above) to classify and organize files.
 
-Naming things is one of the hardest things to do in computer science. The CCK filing system uses codes to organize all of the various digital assets that go into making a story. What this means, basically, is that the way you name your files tells our system where they should be published. The goal of this system is long-term sustainabilty, ease of use, platform independacne, and portability for all of our documents.
+What this means, basically, is that the way you name your files tells our system where they should be published. The purpose of this system is a publishing workflow that is sustainable, ease to use, platform/device independant, and portabable.
 
 #### File naming conventions
 
@@ -46,10 +40,10 @@ This chart gives an example, for a story about the Zimbabwe election:
 
 The story above is about the Zimbabwe election. The story assets are a press advisory text, a photograph, and a map. The text and map were created on July 15th (probably by persons in the Amnesty office), the photograph created five days earlier (likely by someone on the ground). Together, these items form the story package.
 
-#### File classification by story type
+#### File classification by story and asset type
 
 | ID | Story | Asset | File | Template
-| --- | :----------: | :----- | :----- | :----
+| --- | :----------: | :-----: | :-----: | :----
 | N01 | News | Press release | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
 | N02 | News | Press update | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
 | N03 | News | Press advisory | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
