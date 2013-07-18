@@ -48,72 +48,60 @@ The story above is about the Zimbabwe election. The story assets are a press adv
 
 #### File classification by story type
 
-##### Publication types
+| ID | Story | Asset | File | Template
+| --- | :----------: | :----- | :----- | :----
+| N01 | News | Press release | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N02 | News | Press update | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N03 | News | Press advisory | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N04 | News | Media briefing | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N05 | News | Statement | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N06 | News | Position | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N07 | News | Editorial | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N08 | News | Media coverage | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N09 | News | Newsletter | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N10 | News | Digest | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| N11 | News | News flash | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| R01 | Reference | Report | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| R02 | Reference | Article | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| R03 | Reference | F.A.Q. | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| R04 | Reference | Legal document | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| R05 | Reference | Database | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| R06 | Reference | Guide | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| P01 | Project | Essay | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| P02 | Project | Fact sheet | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| P03 | Project | Project report | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| P04 | Project | Project update | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| B01 | Blog | Post | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| B02 | Blog | Comment | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| B03 | Blog | Update | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| M01 | Media | Photo | .jpg image | to [specifications](/file-formats.md)
+| M02 | Media | Raster Graphic | .gif or .png image | to [specifications](/file-formats.md)
+| M03 | Media | Vector Graphic | .scv image | to [specifications](/file-formats.md)
+| M04 | Media | Map | .geojson (for Github), formatted Google spreadsheet (for Tabletop.js), or iframe code  | to [specifications](/file-formats.md)
+| M05 | Media | Icon | .png image | to [specifications](/file-formats.md)
+| M06 | Media | Audio | .wav  | to [specifications](/file-formats.md)
+| M07 | Media | Video | various, 1080p/24 .mov prefered | to [specifications](/file-formats.md)
+| M08 | Media | Data set | various, Google spreadsheet prefered | to [specifications](/file-formats.md)
+| M09 | Media | Infographic | data in Doogle spreadsheet | to [specifications](/file-formats.md)
+| M11 | Media | Timeline | formatted data in Google spreadsheet for Timeline Setter | to [specifications](/file-formats.md)
+| M12 | Media | Interview | .wav audio | to [specifications](/file-formats.md)
+| M13 | Media | Transcription | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
+| M14 | Media | Software | Github repository | to [specifications](/file-formats.md)
+| M15 | Media | Advertisement | .md, .svg, .gif, .jpg | to [specifications](/file-formats.md)
+| W01 | Work | Single task | .md text | job.md
+| W02 | Work | Recurring task | .md text | job.md
+| W03 | Work | Position | .md text | job.md 
+| V01 | Event | Singular | .md text | event.md
+| V02 | Event | Recurring | .md text | event.md
+| V03 | Event | Continual | .md text | event.md 
+| I01 | Identity | Person | .md text | bio.md 
+| I02 | Identity | Group | .md text | bio.md
+| E01 | E-mail | Solicitation | .md text | message.md
+| E02 | E-mail | Information | .md text | message.md
+| E03 | E-mail | Follow-up | .md text | message.md
+| F01 | Form | Monetary | HTML5 | to [specifications](/file-formats.md)
+| F02 | Form | Non-monetary | HTML5 | to [specifications](/file-formats.md) 
+| C01 | Confirmation | Monetary | .md text | message.md
+| C02 | Confirmation | Non-monetary | .md text | message.md
 
-| ID | Publication | Asset | File
-| --- | ---------- | ----- | ----- |
-| N01 | News | Press release | .md text
-| N02 | News | Press update | .md text
-| N03 | News | Press advisory | .md text
-| N04 | News | Media briefing | .md text
-| N05 | News | Statement | .md text
-| N06 | News | Position | .md text
-| N07 | News | Editorial | .md text
-| N08 | News | Media coverage | .md text
-| N09 | News | Newsletter | .md text
-| N10 | News | Digest | .md text
-| N11 | News | News flash | .md text
-| R01 | Reference | Report | .md text
-| R02 | Reference | Article | .md text
-| R03 | Reference | F.A.Q. | .md text
-| R04 | Reference | Legal document | .md text
-| R05 | Reference | Database | .md text
-| R06 | Reference | Guide | .md text
-| P01 | Project | Essay | .md text
-| P02 | Project | Fact sheet | .md text
-| P03 | Project | Project report | .md text
-| P04 | Project | Project update | .md text
-| B01 | Blog | Post | .md text
-| B02 | Blog | Comment | .md text
-| B03 | Blog | Update | .md text
-| M01 | Media | Photo | .jpg image 
-| M02 | Media | Raster Graphic | .gif or .png image
-| M03 | Media | Vector Graphic | .scv image
-| M04 | Media | Map | .geojson or iframe code
-| M05 | Media | Icon | .png image
-| M06 | Media | Audio | .wav 
-| M07 | Media | Video | various, 1080p/24 .mov prefered
-| M08 | Media | Data set | various, Google spreadsheet prefered
-| M09 | Media | Infographic | data in Doogle spreadsheet
-| M11 | Media | Timeline | data in Google spreadsheet
-| M12 | Media | Interview | .wav audio
-| M13 | Media | Transcription | .md text
-| M14 | Media | Software | Github repository
-| M15 | Media | Advertisement | .md, .svg, .gif, .jpg
-
-##### Interaction types
-
-| ID | Interaction | Asset | File
-| --- | ---------- | ----- | ----- |
-| T01 | Task | Singular | .md text
-| T02 | Task | Recurring | .md text
-| T03 | Task | Continual | .md text 
-| V01 | Event | Singular | .md text
-| V02 | Event | Recurring | .md text
-| V03 | Event | Continual | .md text 
-| I01 | Identity | Person | .md text
-| I02 | Identity | Group | .md text 
-| E01 | E-mail | Solicitation | .md text
-| E02 | E-mail | Information | .md text
-| E03 | E-mail | Follow-up | .md text
-
-##### Transaction types
-
-| ID | Transaction | Asset | File
-| --- | ---------- | ----- | ----- |
-| F01 | Form | Monetary | HTML5
-| F02 | Form | Non-monetary | HTML5 
-| C01 | Confirmation | Monetary | .md text
-| C02 | Confirmation | Non-monetary | .md text 
-
-For detailed file specifications and requirements, see the File Type Specifications.
+For detailed file specifications and requirements, see the [File Type Specifications](/file-formats.md).
