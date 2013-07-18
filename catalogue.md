@@ -48,80 +48,72 @@ The story above is about the Zimbabwe election. The story assets are a press adv
 
 #### File classification by story type
 
-##### Publication
+##### Publication types
 
-| Story type | Asset |
-| ---------- | ----- |
-| News | 1. Press release 
-    1. Press update 
-    1. Press advisory
-    1. Media briefing 
-    1. Statement
-    1. Position
-    1. Editorial
-    1. Media coverage
-    1. Newsletter
-    1. Digest
-    1. News flash |
-| Reference |
-  	1. Report
-  	2. Article
-    1. F.A.Q.
-    1. Legal document
-    1. Database
-    1. Guide |
-| Project |
-   	1. Essay
-    1. Fact sheet
-    1. Project report
-    1. Project update |
-| Blog |
-   	1. Post
-    1. RSS feed
-    1. Podcast
-    1. Comment |
-| Media |
-  	1. Photo
-    1. Graphic
-    1. Map
-    1. Icon
-    1. Audio file
-    1. Video
-    1. Data set
-    1. Slideshow
-    1. Infographic
-    1. Timeline
-    1. Interview
-    1. Transcription
-    1. Software
-    1. PDF
-    1. Advertisement |
+| ID | Publication | Asset | File
+| --- | ---------- | ----- | ----- |
+| N01 | News | Press release | .md text
+| N02 | News | Press update | .md text
+| N03 | News | Press advisory | .md text
+| N04 | News | Media briefing | .md text
+| N05 | News | Statement | .md text
+| N06 | News | Position | .md text
+| N07 | News | Editorial | .md text
+| N08 | News | Media coverage | .md text
+| N09 | News | Newsletter | .md text
+| N10 | News | Digest | .md text
+| N11 | News | News flash | .md text
+| R01 | Reference | Report | .md text
+| R02 | Reference | Article | .md text
+| R03 | Reference | F.A.Q. | .md text
+| R04 | Reference | Legal document | .md text
+| R05 | Reference | Database | .md text
+| R06 | Reference | Guide | .md text
+| P01 | Project | Essay | .md text
+| P02 | Project | Fact sheet | .md text
+| P03 | Project | Project report | .md text
+| P04 | Project | Project update | .md text
+| B01 | Blog | Post | .md text
+| B02 | Blog | Comment | .md text
+| B03 | Blog | Update | .md text
+| M01 | Media | Photo | .jpg image 
+| M02 | Media | Raster Graphic | .gif or .png image
+| M03 | Media | Vector Graphic | .scv image
+| M04 | Media | Map | .geojson or iframe code
+| M05 | Media | Icon | .png image
+| M06 | Media | Audio | .wav 
+| M07 | Media | Video | various, 1080p/24 .mov prefered
+| M08 | Media | Data set | various, Google spreadsheet prefered
+| M09 | Media | Infographic | data in Doogle spreadsheet
+| M11 | Media | Timeline | data in Google spreadsheet
+| M12 | Media | Interview | .wav audio
+| M13 | Media | Transcription | .md text
+| M14 | Media | Software | Github repository
+| M15 | Media | Advertisement | .md, .svg, .gif, .jpg
 
-##### Interaction
+##### Interaction types
 
-| Task | 
-    1. Singular
-    1. Recurring
-    1. Continual |
-| Event | 
-    1. Singular
-    1. Recurring
-    1. Continual |
-| Identity |
-    1. Person
-    1. Group |
-| Message |
-    1. Solicitation
-    1. Information
-    1. Follow-up |
+| ID | Publication | Asset | File
+| --- | ---------- | ----- | ----- |
+| T01 | Task | Singular | .md text
+| T02 | Task | Recurring | .md text
+| T03 | Task | Continual | .md text 
+| E01 | Event | Singular | .md text
+| E02 | Event | Recurring | .md text
+| E03 | Event | Continual | .md text 
+| I01 | Identity | Person | .md text
+| I02 | Identity | Group | .md text 
+| E01 | E-mail | Solicitation | .md text
+| E02 | E-mail | Information | .md text
+| E03 | E-mail | Follow-up | .md text
 
-##### Transaction
+##### Transaction types
 
-| Form | 
-    1. Monetary
-    1. Non-monetary |
-| Confirmation |
-    1. Monetary
-    1. Non-monetary |
+| ID | Publication | Asset | File
+| --- | ---------- | ----- | ----- |
+| F01 | Form | Monetary | HTML5
+| F02 | Form | Non-monetary | HTML5 
+| C01 | Confirmation | Monetary | .md text
+| C02 | Confirmation | Non-monetary | .md text 
 
-For file specifications and requirements, see the File Type Specifications.
+For detailed file specifications and requirements, see the File Type Specifications.
