@@ -90,9 +90,11 @@ The story above is about the Zimbabwe election. The story assets are a press adv
 | V03 | Event | Continual | .md text | event.md 
 | I01 | Identity | Person | .md text | bio.md 
 | I02 | Identity | Group | .md text | bio.md
+| A01 | Announcement | Advertisement | .md text | message.md
 | E01 | E-mail | Solicitation | .md text | message.md
 | E02 | E-mail | Information | .md text | message.md
 | E03 | E-mail | Follow-up | .md text | message.md
+| E04 | E-mail | Inquiry | .md text | message.md
 | F01 | Form | Monetary | HTML5 | to [specifications](/file-formats.md)
 | F02 | Form | Non-monetary | HTML5 | to [specifications](/file-formats.md) 
 | C01 | Confirmation | Monetary | .md text | message.md
