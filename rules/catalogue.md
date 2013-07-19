@@ -91,6 +91,7 @@ The story above is about the Zimbabwe election. The story assets are a press adv
 | I01 | Identity | Person | .md text | bio.md 
 | I02 | Identity | Group | .md text | bio.md
 | A01 | Announcement | Advertisement | .md text | message.md
+| A02 | Announcement | Information | .md text | message.md
 | E01 | E-mail | Solicitation | .md text | message.md
 | E02 | E-mail | Information | .md text | message.md
 | E03 | E-mail | Follow-up | .md text | message.md
