@@ -1,0 +1,19 @@
+/* TEAM */
+
+Author: Jackson Couse
+Website: http://couse.com
+Twitter: jacksoncouse
+Location: Ottawa, Canada 
+  						
+/* THANKS */
+
+Dougist's filing system: http://dougist.com/2009/08/file-system-infobase-manager/
+HURIDOCS manuals: http://www.huridocs.org/our-manuals/
+
+                            
+/* SITE */
+                         
+Last update: 2013/07/23
+Standards: YAML, Markdown                           
+Components: HURIDOCS human rights volcabulary, File System Infobase Manager                            
+Software: Draftin.com, Github.com, Sublime Text 2, Git, Linux Mint
