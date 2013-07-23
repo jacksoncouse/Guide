@@ -1,7 +1,7 @@
 Content Construction Kit
-==========
+===================================
 
-## Introduction
+## Overview
 
 The Content Construction Kit (CCK) is a resource for Amnesty International Canada writers, bloggers, and contributors. The CCK is an integral part of Amnesty International Canada's content strategy and the starting-point in our digital publishing workflow.
 
@@ -10,43 +10,49 @@ The goal of the CCK is to establish of a foundation of resources and principles 
 Note, the CCK is currently under active development.
 
 
-## Learn
-
-The [CCK Wiki](https://github.com/AmnestyInternational/ContentKit/wiki) is the place for help getting started, and full documentation.
-
-## Create
-
-### Templates
-
-For generating new digital assets
-
-### Standard assets
-
-- Logos
-- Colours
-- Fonts
-- Slogans
-
-### Style guide
-
-### Best practices
-
-### Settings
-
-For configuring your machine to create digital assets to Amensty International Canada's specifications.
-
-## Publish
-
-How to get your work online.
+## Directory structure
 
 ### Catalogue
 
-The [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/catalogue.md), the filing system for Amnesty International Canada digital assets and human rights ideas
+The [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/catalogue.md), the classification system for Amnesty International Canada human rights issues
 
-### Submit
+### Filing
 
-For occasional and guest authors.
+Our business rules define what can be published, and how it must be files
 
-### Post
+## How to get started 
 
-For trusted authors who publish regularly.
+### Tutorials
+
+For learning the CCK system
+
+### Templates
+
+The starting point for creating new content
+
+## Environments
+
+Tools for creating content
+
+- Standard assets
+	- Logos
+	- Colours
+	- Fonts
+	- Slogans
+- Style guide
+- Best practices
+- Settings
+
+## How to get published 
+
+### Roles
+
+Who can write for us
+
+### Methods
+
+How to submit
+
+## More information
+
+The [CCK Wiki](https://github.com/AmnestyInternational/ContentKit/wiki) provides detailed documentation.
