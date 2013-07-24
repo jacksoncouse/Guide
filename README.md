@@ -12,6 +12,11 @@ For writers, the benefit of the CCK is a clear publishing path: well documented 
 
 *Note, the CCK is currently under active development. This project will change and develop over time. Your contributions are welcome and expected.*
 
+## Why?
+
+Humans don't scale. http://www.codinghorror.com/blog/2008/11/is-email-efail.html
+
+
 ## Directory structure
 
 The working repository is organized into four sections:
