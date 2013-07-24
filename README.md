@@ -6,7 +6,7 @@ Content Construction Kit
 
 The _Content Construction Kit_, (CCK), is a tool and a resource for digital publishing. It establishes a common foundation of best-practice principles and a system of digital production. 
 
-The goal of the CCK is the advancement, extension, and preservation of human rights through effective digital discourse. The CCK is built to allow for progressive automation and enhancement of Amnesty International Canada's publishing workflow. 
+The goal of the CCK is the promotion, extension, and preservation of human rights through effective digital discourse. The CCK is built for progressive automation and enhancement of Amnesty International Canada's publishing workflow. 
 
 For writers, the benefit of the CCK is a clear publishing path: well documented requirements, openly stated strategic goals, helpful tutorials, a standardized submission process, and transparent revision. Accountability between content craetors and editors is a core aspect of the CCK method.
 
