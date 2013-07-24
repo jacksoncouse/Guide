@@ -4,17 +4,17 @@ Content Construction Kit
 
 ## Overview
 
-The _Content Construction Kit_, or CCK for short, is a resource for Amnesty International Canada writers, bloggers, and contributors. The CCK is an integral part of Amnesty International Canada's content strategy and the starting-point for our digital publishing work.
+The _Content Construction Kit_, (CCK), is a tool and a resource for digital publishing. It establishes of a foundation of best-practice principles and a system digital production. 
 
-The CCK is a tool to establish of a foundation of resources and best-practice principles of digital production, and is built to allow for progressive automation of our publishing workflow. The goal of the CCK is the advancement, extension, and preservation of human rights through effective digital discourse.
+The goal of the CCK is the advancement, extension, and preservation of human rights through effective digital discourse. The CCK is built to allow for progressive automation and enhancement of Amnesty International Canada's publishing workflow. 
 
-For writers, the CCK provides a clear publishing path: well documented requirements, openly stated strategic goals, helpful tutorials, a standardized submission process, and a transparent revision. Accountability between content craetors and editors is a core aspect of the CCK method.
+For writers, the benefit of the CCK is a clear publishing path: well documented requirements, openly stated strategic goals, helpful tutorials, a standardized submission process, and transparent revision. Accountability between content craetors and editors is a core aspect of the CCK method.
 
-*Note*, the CCK is currently under active development. This project will change and develop over time. Your contributions are welcomed and expected.
+*Note, the CCK is currently under active development. This project will change and develop over time. Your contributions are welcome and expected.*
 
 ## Directory structure
 
-This repository is organized into four sections:
+The working repository is organized into four sections:
 
 1. Business Rules
 1. Templates
@@ -70,6 +70,8 @@ with existing content
 
 ## More information
 
+### User manual
+
 The [CCK Wiki](https://github.com/AmnestyInternational/ContentKit/wiki) provides detailed documentation.
 
 ### License
@@ -85,23 +87,3 @@ This program is free software: you can redistribute it and/or modify it under th
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License along with this program.  If not, see [http://www.gnu.org/licenses/](http://www.gnu.org/licenses/).
-
-#### What this means
-
-Required
-
-- License and copyright notice
-- State Changes
-- Disclose Source
-
-Permitted
-
-- Commercial Use
-- Modification
-- Distribution
-- Patent Grant
-
-Forbidden
-
-- Hold Liable
-- Sublicensing
