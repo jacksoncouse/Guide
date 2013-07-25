@@ -4,9 +4,9 @@ Content Construction Kit
 
 *Note, the CCK is currently under active development. Your contributions are welcome. Contact @jacksoncouse to get involved.*
 
-## Overview
+## Introduction
 
-The **Content Construction Kit**, or CCK, is a tool for digital publishing. 
+The Content Construction Kit, or CCK, is a tool for digital publishing. 
 
 The CCK establishes a foundation of best-practice principles and a system of digital production. It provides resources, standards, training, and access.
 
@@ -26,7 +26,7 @@ This is also a change in _mentality_:
 
 _- Alberto Pepe_
 
-The paper-paradign is not appropriate for the internet. We need a 21st-century tool set. The CCK is a shift in the way we think about communications, publishing, and activism. It is a move toward open, collaborative, and accountable ways of working.
+The paper-paradigm is not appropriate for the internet. We need a 21st-century tool set. The CCK is a shift in the way we think about communications, publishing, and activism. It is a move toward open, collaborative, and accountable ways of working.
 
 ## Directory structure
 
