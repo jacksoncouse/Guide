@@ -2,20 +2,31 @@
 Content Construction Kit
 ===================================
 
+*Note, the CCK is currently under active development. Your contributions are welcome. Contact @jacksoncouse to get involved.*
+
 ## Overview
 
-The _Content Construction Kit_, (CCK), is a tool and a resource for digital publishing. It establishes a common foundation of best-practice principles and a system of digital production. 
+The **Content Construction Kit**, or CCK, is a tool for digital publishing. 
 
-The goal of the CCK is the promotion, extension, and preservation of human rights through effective digital discourse. The CCK is built for progressive automation and enhancement of Amnesty International Canada's publishing workflow. 
+The CCK establishes a foundation of best-practice principles and a system of digital production. It provides resources, standards, training, and access.
 
-For writers, the benefit of the CCK is a clear publishing path: well documented requirements, openly stated strategic goals, helpful tutorials, a standardized submission process, and transparent revision. Accountability between content craetors and editors is a core aspect of the CCK method.
+The goal of the CCK is the promotion, extension, and preservation of human rights through effective digital discourse. The CCK is built with the aim of progressive automation and enhancement of Amnesty International Canada's publishing workflow. It is meant to grow.
 
-*Note, the CCK is currently under active development. This project will change and develop over time. Your contributions are welcome and expected.*
+For writers, the CCK provides a clear publishing path: well documented requirements, openly stated strategic goals, helpful tutorials, a standardized submission process, and transparent revisions. Accountability between content creators and editors is a core aspect of the CCK method.
 
 ## Why?
 
-Humans don't scale. http://www.codinghorror.com/blog/2008/11/is-email-efail.html
+Why work differently than you're used to? 
 
+The demands of digital publishing scale exponentially, but _individual humans beings don't scale_. The net number of requests for publishing attention exceeds our ability to provide that attention. Our ability to respond thoughtfully to the material we do publish is extremely limited. The scale is all out of whack. The CCK is a way to streamline the publishing process so that all of our material gets the attention it deserves. 
+
+This is also a change in _mentality_: 
+
+> ["We do 21st-century research, write it up using 20th century tools, and then package it into 17th century formats.”](http://facilitatingchange.org/2012/11/failfaire-dc-publishing/)
+
+_- Alberto Pepe_
+
+The paper-paradign is not appropriate for the internet. We need a 21st-century tool set. The CCK is a shift in the way we think about communications, publishing, and activism. It is a move toward open, collaborative, and accountable ways of working.
 
 ## Directory structure
 
@@ -30,7 +41,7 @@ The working repository is organized into four sections:
 
 ### Users
 
-Who can write for us
+Who can write for us 
 
 ### Tutorials
 
