@@ -18,7 +18,7 @@ For writers, the CCK provides a clear publishing path: well documented requireme
 
 Why work differently than you're used to? 
 
-The demands of digital publishing scale exponentially, but _individual humans beings don't scale_. The net number of requests for publishing attention exceeds our ability to provide that attention. Our ability to respond thoughtfully to the material we do publish is extremely limited. The scale is all out of whack. The CCK is a way to streamline the publishing process so that all of our material gets the attention it deserves. 
+The demands of digital publishing scale exponentially, but _individual humans beings don't scale_. The net number of requests for publishing attention exceeds our ability to provide that attention. Our ability to respond thoughtfully to the material we do publish is extremely limited. The CCK is a way to scale and streamline the publishing process so that all of our material gets the attention it deserves. 
 
 This is also a change in _mentality_: 
 
