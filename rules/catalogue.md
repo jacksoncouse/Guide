@@ -10,4 +10,4 @@ The CCK will use a metadata system based on the HURIDOCS [Standard Format](http:
 
 The purpose adopting of this system is to create a standardized, open, and complete vocabulary for classifying human rights violations, thereby increaing access to information and exposure of human rights issues.
 
-_This system is currently under construction._
+_This system is currently under construction._ See [@jacksoncouse](https://github.com/jacksoncouse) and [@wiki-d](https://github.com/wiki-d) to get involved.
