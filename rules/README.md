@@ -15,7 +15,7 @@ Like an atom, a story is a complete unit made up of a few simple parts that comb
 1. Context
 1. Assets
 
-#### Ideas: the catalogue
+#### Ideas: [the catalogue]((/rules/catalogue.md)
 
 The [catalogue](/rules/catalogue.md) is a method for classifying our stories. It is vocabulary of _human rights ideas_ that we attach to our stories with metadata. We use the catalogue to identify the ideas in our stories in a standardized way.
 
@@ -27,10 +27,10 @@ Naming things is one of the hardest things to do in computer science, and it get
 
 Properly naming things tells the publisher what the parts of your story are and where they belong.
 
-#### Assets: file formats
+#### Assets: [file formats](/rules/formats)
 
 Assets are the components of a story. These peices include text documents, metadata, images, and so on. [File formats](/rules/formats) defines allowable file types for stories. 
 
-## Roles
+## [Roles](/rules/roles.md)
 
-Defines who can do what, and how.
+Different people have different responsibilities and levels of direct access to publishing. We have a set of [roles](/rules/roles.md) to define these relationships.
