@@ -21,7 +21,7 @@ The [catalogue](/rules/catalogue.md) is a method for classifying our stories. It
 
 By using metadata, the catalogue allows us to organize our _human rights ideas_ seperately from our _human rights work_ (the Critical Pathways and Canada Priorities). This means we can keep our content organized even when our priorities and our work changes. It is also an essential part of making our website searchable.
 
-#### Context: file naming conventions
+#### Context: [file naming conventions](/rules/file-names.md)
 
 Naming things is one of the hardest things to do in computer science, and it gets especially tricky when many different people and machines are involved. The system we use is based on a simple, but strict, [file-naming conventions](/rules/file-names.md).
 
@@ -33,4 +33,10 @@ Assets are the components of a story. These peices include text documents, metad
 
 ## [Roles](/rules/roles.md)
 
-Different people have different responsibilities and levels of direct access to publishing. We have a set of [roles](/rules/roles.md) to define these relationships.
+Different people have different responsibilities and levels of direct access to publishing. We have a set of [roles](/rules/roles.md) to define these relationships:
+
+1. [Unsolicited](/rules/roles.md#unsolicited)
+2. [Casual](/rules/roles.md#casual-via-email)
+3. [Semi-casual](/rules/roles.md#semi-casual---offline-via-dropbox)
+4. [Authenticated](/rules/roles.md#authenticated)
+5. [Trusted]((/rules/roles.md#trusted)
