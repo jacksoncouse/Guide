@@ -29,4 +29,4 @@ Properly naming things tells the publisher what the parts of your story are and 
 
 #### Assets: file formats
 
-Assets are the components of a story. These peices include text documents, metadata, images, and so on. [File-types](/formats/README.md) defines allowable file types for stories. 
+Assets are the components of a story. These peices include text documents, metadata, images, and so on. [File formats](/rules/formats/README.md) defines allowable file types for stories. 
