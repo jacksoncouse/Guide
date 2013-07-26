@@ -34,36 +34,20 @@ Building a movement takes many hands.
 
 The working repository is organized into four sections:
 
+1. Documentation
+1. Examples
 1. Business Rules
 1. Templates
-1. Catalogue
-1. Content
 
 ## How to get started 
 
-### Users
-
-Who can write for us 
-
-### Tutorials
-
-For learning the CCK system
-
-### Templates
-
-The starting point for creating new content
-
-## Usage
-
-### Organization
-
-#### Catalogue
-
-The [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/catalogue.md), the classification system for Amnesty International Canada human rights issues
-
-#### Filing
-
-Our business rules define what can be published, and how it must be files
+1. Tutorials - start here if you are completely new to the CCK publishing workflow
+1. User roles - define how to interact with the system
+1. Templates - the starting point for writing new content
+1. Usage - completed CCK stories and how they fit in the publishing workflow
+1. Organization
+	1. The [Catalogue](https://github.com/AmnestyInternational/ContentKit/blob/master/catalogue.md), the classification system for Amnesty International Canada human rights issues
+	1. File Naming, our system for organizing story assets into packages
 
 ### Tools
 

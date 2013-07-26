@@ -45,20 +45,20 @@ That is, `file creation date`-`classification`-`story name`.`file type abbreviat
 | B01 | Blog | Post | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
 | B02 | Blog | Comment | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
 | B03 | Blog | Update | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
-| M01 | Media | Photo | .jpg image | to [specifications](/file-types.md)
-| M02 | Media | Raster Graphic | .gif or .png image | to [specifications](/file-types.md)
-| M03 | Media | Vector Graphic | .scv image | to [specifications](/file-types.md)
-| M04 | Media | Map | .geojson (for Github), formatted Google spreadsheet (for Tabletop.js), or iframe code  | to [specifications](/file-types.md)
-| M05 | Media | Icon | .png image | to [specifications](/file-types.md)
-| M06 | Media | Audio | .wav  | to [specifications](/file-types.md)
-| M07 | Media | Video | various, 1080p/24 .mov prefered | to [specifications](/file-types.md)
-| M08 | Media | Data set | various, Google spreadsheet prefered | to [specifications](/file-types.md)
-| M09 | Media | Infographic | data in Doogle spreadsheet | to [specifications](/file-types.md)
-| M11 | Media | Timeline | formatted data in Google spreadsheet for Timeline Setter | to [specifications](/file-types.md)
-| M12 | Media | Interview | .wav audio | to [specifications](/file-types.md)
+| M01 | Media | Photo | .jpg image | [specifications](/rules/formats/)
+| M02 | Media | Raster Graphic | .gif or .png image | [specifications](/rules/formats/)
+| M03 | Media | Vector Graphic | .scv image | [specifications](/rules/formats/)
+| M04 | Media | Map | .geojson (for Github), formatted Google spreadsheet (for Tabletop.js), or iframe code  | [specifications](/rules/formats/)
+| M05 | Media | Icon | .png image | [specifications](/rules/formats/)
+| M06 | Media | Audio | .wav  | [specifications](/rules/formats/)
+| M07 | Media | Video | various, 1080p/24 .mov prefered | [specifications](/rules/formats/)
+| M08 | Media | Data set | various, Google spreadsheet prefered | [specifications](/rules/formats/)
+| M09 | Media | Infographic | data in Doogle spreadsheet | [specifications](/rules/formats/)
+| M11 | Media | Timeline | formatted data in Google spreadsheet for Timeline Setter | [specifications](/rules/formats/)
+| M12 | Media | Interview | .wav audio | [specifications](/rules/formats/)
 | M13 | Media | Transcription | .md text | [post.md](https://raw.github.com/AmnestyInternational/ContentKit/master/templates/post.md)
-| M14 | Media | Software | Github repository | to [specifications](/file-types.md)
-| M15 | Media | Advertisement | .md, .svg, .gif, .jpg | to [specifications](/file-types.md)
+| M14 | Media | Software | Github repository | [specifications](/rules/formats/)
+| M15 | Media | Advertisement | .md, .svg, .gif, .jpg | [specifications](/rules/formats/)
 | W01 | Work | Single task | .md text | job.md
 | W02 | Work | Recurring task | .md text | job.md
 | W03 | Work | Position | .md text | job.md 
@@ -73,8 +73,8 @@ That is, `file creation date`-`classification`-`story name`.`file type abbreviat
 | E02 | E-mail | Information | .md text | message.md
 | E03 | E-mail | Follow-up | .md text | message.md
 | E04 | E-mail | Inquiry | .md text | message.md
-| F01 | Form | Monetary | HTML5 | to [specifications](/file-types.md)
-| F02 | Form | Non-monetary | HTML5 | to [specifications](/file-types.md) 
+| F01 | Form | Monetary | HTML5 | [specifications](/rules/formats/)
+| F02 | Form | Non-monetary | HTML5 | [specifications](/rules/formats/) 
 | C01 | Confirmation | Monetary | .md text | message.md
 | C02 | Confirmation | Non-monetary | .md text | message.md
 
