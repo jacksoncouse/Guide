@@ -28,6 +28,8 @@ _- Alberto Pepe_
 
 The paper-paradigm is not appropriate for the internet. We need a 21st-century tool set. The CCK is a shift in the way we think about communications, publishing, and activism. It is a move toward open, collaborative, and accountable ways of working.
 
+Building a movement takes many hands.
+
 ## Directory structure
 
 The working repository is organized into four sections:
