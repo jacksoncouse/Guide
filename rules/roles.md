@@ -14,7 +14,7 @@ This method is appropriate for casual contributors. If you rarely write for the 
 
 1. Compose a new email message to content@sendtodropbox.com 
 	- This address only accepts messages from @amnesty.ca accounts
-	- We cannot reply to email sent to this account)
+	- We cannot reply to email sent to this account
 1. Address your email using the file naming conventions. This is a strict requirement. The naming keys let us put your content in all the right places 
 1. Copy and paste the applicable template into the body of an email. Write your content - the metadata and the body copy - in the email using Markdown
 1. Rename any other files (pictures, graphics) for the story using the naming conventions and attach them to the email
