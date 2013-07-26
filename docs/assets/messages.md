@@ -8,7 +8,7 @@ All messages must contain:
 1. Charitable registration #
 1. AIC contact info
 	- mailing address
-	- members@amnesty.ca
+	- member services email address
 	- 1800 number
 1. Social media share buttons
 1. Links to AIC facebook & twitter pages
