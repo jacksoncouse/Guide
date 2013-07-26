@@ -31,7 +31,7 @@ Properly naming things tells the publisher what the parts of your story are and 
 
 Assets are the components of a story. These peices include text documents, metadata, images, and so on. [File formats](/rules/formats) defines allowable file types for stories. 
 
-## [Roles](/rules/roles.md)
+## Roles
 
 Different people have different responsibilities and levels of direct access to publishing. We have a set of [roles](/rules/roles.md) to define these relationships:
 
