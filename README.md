@@ -24,7 +24,9 @@ We do not choose the devices people use to access our content. If we do not chan
 
 For content creators, the Content Construction Kit establishes a clear and open path to participating in publishing online: well documented requirements, specificly stated strategic goals, helpful tutorials, process, accountability, and transparency. It provides resources, standards, training, and access. It is the foundation of an open system of digital production. 
 
-### Publishing is about _speaking the voice of a movement_
+### Publishing is about _voice_
+
+We speak for a movement. This is a responsibilty and a privilege that we take seriously. We want to speak well.
 
 The Content Construction Kit is also the starting point for evaluating the effectiveness of our work online. How well do we communicate? Are our messages clear? Is our story being heard? Are we effective in educating, agitating, and facilitating change? To answer these questions, we need a clear reference point. The CCK isn't just a manual, it is a forum for discussion, debate, growth, and change. 
 
