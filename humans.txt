@@ -7,7 +7,7 @@ Location: Ottawa, Canada
   						
 /* THANKS */
 
-Dougist's filing system: http://dougist.com/2009/08/file-system-infobase-manager/
+Dougist's "File System Infobase Manager" filing system: http://dougist.com/2009/08/file-system-infobase-manager/
 HURIDOCS manuals: http://www.huridocs.org/our-manuals/
 
                             

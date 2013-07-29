@@ -4,69 +4,90 @@ Content Construction Kit
 
 ## Introduction
 
-The Content Construction Kit, or CCK, is a tool for digital publishing. 
+### Publishing is about _people_
 
-The CCK establishes a foundation of best-practice principles and a system of digital production. It provides resources, standards, training, and access.
+The demands of digital publishing scale exponentially, but _individual humans beings don't scale_. We will never have less data, less to publish, less to keep updated, or less new technologcal devices to publish to, than we do today. Every day there is more to do. This is a big challenge, but its also a fantastic opportunity.
 
-The goal of the CCK is the promotion, extension, and preservation of human rights through effective digital discourse. The CCK is built with the aim of progressive automation and enhancement of Amnesty International Canada's publishing workflow. It is meant to grow.
+For some time, our online publishing demands have exceed our capacity. The requests upon us for publishing attention are more than we can handle, both in volume and technical complexity. We do not have the time or resources to respond thoughtfully to all the material we are asked to publish. As a result, the material we do publish is limited, inadequate, and frequently out of date or wrong. 
 
-For writers, the CCK provides a clear publishing path: well documented requirements, openly stated strategic goals, helpful tutorials, a standardized submission process, and transparent revisions. Accountability between content creators and editors is a core aspect of the CCK method.
+We built the Content Construction Kit to address this. Its not a solution, but it is a start. Our hope is that by normalizing and streamlining the publishing process we can make things easier. We want all of our material to get the attention it deserves.
 
-## Why?
+In the short run, we can't add more publishing resources. The only way for us to increase our efficiency is to share the work load. The Content Construction Kit moves limited publishing responsibilities out of the hands of a few and onto us all. This isn't a new idea - as you know, building a movement takes many hands. 
 
-Why work differently than you're used to? 
+### Publishing is about _outlook_
 
-The demands of digital publishing scale exponentially, but _individual humans beings don't scale_. The net number of requests for publishing attention exceeds our ability to provide that attention. Our ability to respond thoughtfully to the material we do publish is extremely limited. The CCK is a way to scale and streamline the publishing process so that all of our material gets the attention it deserves. 
+The Content Construction Kit is also a change in _mentality_. Today, ["we do 21st-century research, write it up using 20th century tools, and then package it into 17th century formats.”](http://facilitatingchange.org/2012/11/failfaire-dc-publishing/). This is not a sustainable approach to online publishing.
 
-This is also a change in _mentality_: 
+We have been opperating under the paper-paradigm for far too long. It is just not appropriate for publishing to the internet, for a variety of [reasons](/docs/). We desperately need a 21st-century approach to publishing, not just for effeciency, but for relevance, authority, and growth. The CCK is this shift, toward more open, collaborative, and accountable ways of working. 
 
-> ["We do 21st-century research, write it up using 20th century tools, and then package it into 17th century formats.”](http://facilitatingchange.org/2012/11/failfaire-dc-publishing/)
+We do not choose the devices people use to access our content. If we do not change to meet the demands of new technolog (today mostly mobile devices) we risk alientating the very people we seek to serve. The CCK is a move towards publishing content that can be distributed anywhere, from text messages to TV screens. 
 
-_- Alberto Pepe_
+For content creators, the Content Construction Kit establishes a clear and open path to participating in publishing online: well documented requirements, specificly stated strategic goals, helpful tutorials, process, accountability, and transparency. It provides resources, standards, training, and access. It is the foundation of an open system of digital production. 
 
-The paper-paradigm is not appropriate for the internet. We need a 21st-century tool set. The CCK is a shift in the way we think about communications, publishing, and activism. It is a move toward open, collaborative, and accountable ways of working.
+### Publishing is about _speaking the voice of a movement_
 
-Building a movement takes many hands.
+The Content Construction Kit is also the starting point for evaluating the effectiveness of our work online. How well do we communicate? Are our messages clear? Is our story being heard? Are we effective in educating, agitating, and facilitating change? To answer these questions, we need a clear reference point. The CCK isn't just a manual, it is a forum for discussion, debate, growth, and change. 
+
+Ultimately, the goal of the CCK is to support Amnesty International Canada's work. It is a methodology for promotion, extension, and preservation of human rights through effective digital discourse. 
+
+Finallym the CCK is built with the aim of progressive automation and enhancement of Amnesty International Canada's publishing workflow. It is a collaborative open source project, meant to grow with contributions from its users. Please take part, this tool is built for you.
 
 ## Directory structure
 
 The Content Contruction Kit is organized into sections:
 
-1. [Documentation](/docs), the how and why of this system
-1. [Business Rules](/rules), the backbone of our publishing workflow
-	1. Authors
-	1. Digital asset management
-		1. The [Catalogue](/rules/catalogue.md), the _content classification_ system (a controlled-vocabulary database)
-		1. File System Infobase, the _file organization_ system (a schema for document naming)
-	1. File specifications
-	1. Story categories
-	1. Submission process
-1. [Templates](/templates), the starting point for writing new content
-1. [Tools](/tools), for creating good content
-	1. Digital style guide
-	1. Online Best practices
-	1. Common settings
-1. [Tutorials](/tutorials), a guide to the CCK publishing workflow 
+1. [Documentation](/docs)
+	The how and why of this system
+1. [Business Rules](/rules)
+	The backbone of our publishing workflow
+	- [Authors](/rules/authors.md)
+	- Digital asset management
+		- The [Catalogue](/rules/catalogue.md) - the _content classification_ system (a controlled-vocabulary database)
+		- [File System Infobase](/rules/file-names.md) - the _file organization_ system (a schema for document naming)
+	- File [specifications](/rules/formats)
+	- Story [categories](/rules/categories.md)
+	- News Pegs and current events
+	- [Submission process](/rules/submission-process.md)
+1. [Templates](/templates)
+	The starting point for writing new content
+	- [Post](/templates/post.md)
+	- Biography 
+	- Event
+	- Job
+	- Message
+1. [Tools](/tools)
+	For creating good content
+	- Digital style guide
+	- Best practices
+	- Common settings
+1. [Tutorials](/wiki)
+	A guide to the CCK publishing workflow 
 
 ## Using the Content Construction Kit
 
 ### Getting started
 
-1. Introduction to the CCK
+1. [Join Github](https://github.com/) 
+1. [Get social](https://help.github.com/articles/be-social) on Github - make friends, follow a project (like this one!), create issues, join our organization page.
+1. [Introduction](/wiki#getting-started) to the CCK workflow
+	1. [Intro to digital](https://github.com/AmnestyInternational/ContentKit/wiki/Introduction-to-Digital-Publishing): content strategy in the digital publishing environment and a human rights framework
+	1. [Intro to metadata](https://github.com/AmnestyInternational/ContentKit/wiki/Introduction-to-Metadata): using structured text to talk with robots
+	1. [Intro to Markdown](https://github.com/AmnestyInternational/ContentKit/wiki/Introduction-to-Markdown): a familiar way to write structured text
+	1. [Intro to Digital Workflow](https://github.com/AmnestyInternational/ContentKit/wiki/How-to-Submit-New-Content): how to submit content for digital publication
 
 ### Writing new content
 
 #### Basic tutorials
 
-1. Posts
-1. Biographies 
-1. Events
-1. Jobs
-1. Messages
-
-#### Advanced tutorials
-
-Available in the tutorials section.
+1. [Introduction to Blogging](/wiki/blogging-for-human-rights)
+1. Microblogging and "Social Media"
+1. Writing and sending messages by mass e-mail broadcast
+1. News writing
+1. References, resources, and reports
+1. Projects
+1. Biographies
+1. Publicizing events
+1. Job and volunteer opportunities
 
 ### Submissions
 
@@ -76,9 +97,11 @@ Available in the tutorials section.
 
 ### Raising an issue
 
-1. to modify or correct existing content
-1. to propose new content
-1. to propose a new feature
+1. Introduction to Github [issues](https://github.com/blog/831-issues-2-0-the-next-generation)
+1. [Create an Issue](/issues?state=open) 
+	- to modify or correct existing content
+	- to propose new content
+	- to propose a new feature
 
 ## Contributing to the Content Construction Kit
 
@@ -88,13 +111,13 @@ The Content Contruction Kit open-source collaborative document under active deve
 - Join the CCK team on Github and make your contributions to the project directly 
 - Fork this repository and add your own code and text - if its good, we'll pull it to the master copy!
 
-The CCK is maintained by [@jacksoncouse](https://github.com/jacksoncouse). Please get in touch with Jackson if you have any questions.
+The CCK is maintained by [@jacksoncouse](https://github.com/jacksoncouse). Please get in touch with Jackson if you have any questions or want to get involved.
 
 ## More information
 
 ### User manual
 
-The [CCK Wiki](https://github.com/AmnestyInternational/ContentKit/wiki) provides detailed documentation.
+This repository _is_ a user manual. However, the [CCK Wiki](https://github.com/AmnestyInternational/ContentKit/wiki) does provide step-by-step user tutorials. [Github Help](https://help.github.com/) is also a handy place.
 
 ### License
 
