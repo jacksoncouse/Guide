@@ -18,7 +18,7 @@ In the short run, we can't add more publishing resources. The only way for us to
 
 The Content Construction Kit is also a change in _mentality_. Today, ["we do 21st-century research, write it up using 20th century tools, and then package it into 17th century formats.”](http://facilitatingchange.org/2012/11/failfaire-dc-publishing/). This is not a sustainable approach to online publishing.
 
-We have been opperating under the paper-paradigm for far too long. It is just not appropriate for publishing to the internet, for a variety of [reasons](/docs/). We desperately need a 21st-century approach to publishing, not just for effeciency, but for relevance, authority, and growth. The CCK is this shift, toward more open, collaborative, and accountable ways of working. 
+We have been opperating under the paper-paradigm for far too long. It is just not appropriate for publishing to the internet, for a variety of [reasons](/docs/). We desperately need a 21st-century approach to publishing; for effeciency, for relevance, authority, and growth. The CCK is this shift, toward more open, collaborative, and accountable ways of working. 
 
 We do not choose the devices people use to access our content. If we do not change to meet the demands of new technology (mobile devices, for example) we risk alientating the very people we seek to serve. The CCK is a move towards publishing content that can be distributed anywhere, from text messages to TV screens. 
 
