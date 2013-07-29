@@ -28,7 +28,7 @@ For content creators, the Content Construction Kit establishes a clear and open 
 
 We speak for a movement. This is a responsibilty and a privilege that we take seriously. We want to speak well.
 
-The Content Construction Kit is also the starting point for evaluating the effectiveness of our work online. How well do we communicate? Are our messages clear? Is our story being heard? Are we effective in educating, agitating, and facilitating change? To answer these questions, we need a clear reference point. The CCK isn't just a manual, it is a forum for discussion, debate, growth, and change. 
+The Content Construction Kit is the starting point for evaluating the effectiveness of our work online. How well do we communicate? Are our messages clear? Is our story being heard? Are we effective in educating, agitating, and facilitating change? To answer these questions, we need a clear reference point. The CCK isn't just a manual, it is a forum for discussion, debate, growth, and change. Its the yardstick to measure our work against. 
 
 Ultimately, the goal of the CCK is to support Amnesty International Canada's work. It is a methodology for promotion, extension, and preservation of human rights through effective digital discourse. 
 
