@@ -20,7 +20,7 @@ The Content Construction Kit is also a change in _mentality_. Today, ["we do 21s
 
 We have been opperating under the paper-paradigm for far too long. It is just not appropriate for publishing to the internet, for a variety of [reasons](/docs/). We desperately need a 21st-century approach to publishing, not just for effeciency, but for relevance, authority, and growth. The CCK is this shift, toward more open, collaborative, and accountable ways of working. 
 
-We do not choose the devices people use to access our content. If we do not change to meet the demands of new technolog (today mostly mobile devices) we risk alientating the very people we seek to serve. The CCK is a move towards publishing content that can be distributed anywhere, from text messages to TV screens. 
+We do not choose the devices people use to access our content. If we do not change to meet the demands of new technology (mobile devices, for example) we risk alientating the very people we seek to serve. The CCK is a move towards publishing content that can be distributed anywhere, from text messages to TV screens. 
 
 For content creators, the Content Construction Kit establishes a clear and open path to participating in publishing online: well documented requirements, specificly stated strategic goals, helpful tutorials, process, accountability, and transparency. It provides resources, standards, training, and access. It is the foundation of an open system of digital production. 
 
