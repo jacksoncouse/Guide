@@ -1,7 +1,7 @@
 Business Rules 
 ==================================================
 
-Organization is an important part of Amnesty International Canada's content strategy. This section of the CCK describes how we organize our content.
+Digital asset management is an integral part of the Content Contruction Kit. This section of the CCK describes how we organize our content.
 
 ## The Story
 
@@ -15,13 +15,13 @@ Like an atom, a story is a complete unit made up of a few simple parts that comb
 1. Context
 1. Assets
 
-#### Ideas: [the catalogue]((/rules/catalogue.md)
+#### Ideas: [the Catalogue]((/rules/catalogue.md)
 
 The [catalogue](/rules/catalogue.md) is a method for classifying our stories. It is vocabulary of _human rights ideas_ that we attach to our stories with metadata. We use the catalogue to identify the ideas in our stories in a standardized way.
 
 By using metadata, the catalogue allows us to organize our _human rights ideas_ seperately from our _human rights work_ (the Critical Pathways and Canada Priorities). This means we can keep our content organized even when our priorities and our work changes. It is also an essential part of making our website searchable.
 
-#### Context: [file naming conventions](/rules/file-names.md)
+#### Context: [File System Infobase](/rules/file-names.md)
 
 Naming things is one of the hardest things to do in computer science, and it gets especially tricky when many different people and machines are involved. The system we use is based on a simple, but strict, [file-naming conventions](/rules/file-names.md).
 
