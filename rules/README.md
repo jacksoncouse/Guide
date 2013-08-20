@@ -1,7 +1,9 @@
 Business Rules 
 ==================================================
 
-Digital asset management is an integral part of the Content Contruction Kit. This section of the CCK describes how we organize our content.
+This section describes how we organize content. 
+
+**Key concepts:** _Digital Asset Management_ and _metadata_. 
 
 ## The Story
 
