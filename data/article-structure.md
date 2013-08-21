@@ -2,32 +2,31 @@ Articles Data Structure
 
 # Articles data
 
-Articles **{**
+Articles {
 * id,
 * Text,
 * UnitType,
-* Status **[**
-  * **{**
+* Status [
+  * {
     * Status,
     * Effective,
-    * Created**}****]**,
-
-  Authors **[**
-    **{**
-      Name,
-      DBO…**}****]**,
-  Publication **[**
-    **{**
-      Publisher,
-      PubDate**}****]**,
-  Parents **[**
-    Article_id**]**,
-  Categories **[**
-    Category_no**]**,
-  Subjects **[**
-      Subject_no**]**,
-  References **[**
-    **{**Some pre determined data structure like oxford**}****]****}**
+    * Created}],
+* Authors [
+  * {
+    * Name,
+    * DBO…}],
+* Publication [
+  * {
+    * Publisher,
+    * PubDate}],
+* Parents [
+  * Article_id],
+* Categories [
+  * Category_no],
+* Subjects [
+  * Subject_no],
+* References [
+  * {Some pre determined data structure like oxford}]}
 
 # Tables structure
 
