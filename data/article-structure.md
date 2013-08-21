@@ -3,14 +3,14 @@ Articles Data Structure
 # Articles data
 
 Articles **{**
-  id,
-  Text,
-  UnitType,
-  Status **[**
-    **{**
-      Status,
-      Effective,
-      Created**}****]**,
+* id,
+* Text,
+* UnitType,
+* Status **[**
+  * **{**
+    * Status,
+    * Effective,
+    * Created**}****]**,
 
   Authors **[**
     **{**
