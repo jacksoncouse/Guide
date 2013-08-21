@@ -1,96 +1,120 @@
 Articles Data Structure
 
-# Articles data
+# Structured articles data
 
-Articles {
-* id,
-* Title
-* Text,
-* UnitType,
-* Status [
-  * {
-    * Status,
-    * Effective,
-    * Created}],
-* Authors [
-  * {
-    * Name,
-    * DBO…}],
-* Publication [
-  * {
-    * Publisher,
-    * PubDate}],
-* Parents [
-  * Article_id],
-* Categories [
-  * Category_no],
-* Subjects [
-  * Subject_no],
-* References [
-  * {Some pre determined data structure like oxford}]}
+Articles
+  {
+  id,
+  Title,
+  Text,
+  UnitType,
+  Status
+    [
+      {
+      Status,
+      Effective,
+      Created
+      }
+    ],
+  Authors
+    [
+      {
+      Name,
+      DBO…
+      }
+    ],
+  Publication
+    [
+      {
+      Publisher,
+      PubDate
+      }
+    ],
+  Parents
+    [
+    Article_id
+    ],
+  Categories
+    [
+    Category_no
+    ],
+  Subjects
+    [
+    Subject_no
+    ],
+  References
+    [
+      {
+      Some pre determined data structure like oxford
+      }
+    ]
+  }
 
-# Tables structure
+# Articles tables
 
 * tbl_Articles
-    * id
+    * id*
     * title
     * text
     * unit_type
 
 * tbl_ArticlesAuthours
-    * article_id
-    * authour_id
+    * article_id*
+    * authour_id*
     * type
 
 * tbl_Authours
-    * id
+    * id*
     * name
     * dbo
     * …
 
 * tbl_Statuses
+    * id*
     * status
     * article_id
     * effective
     * created
 
 * tbl_ArticlesPublishers
-    * article_id
-    * publisher_id
+    * article_id*
+    * publisher_id*
     * publication_date
 
 * tbl_Publishers
-    * id
+    * id*
     * name
     * ...
 
 * tbl_ArticlesParents
-    * parent_id
-    * child_id
+    * parent_id*
+    * child_id*
 
 * tbl_ArticlesCategories
-    * article_id
-    * Category_id
+    * article_id*
+    * Category_id*
 
 * tbl_Categories
-    * id
+    * id*
     * name
     * parent_id ← can a category exist within multiple parent categories?
 
 * tbl_ArticlesSubjects
-    * article_id
-    * subject_id
+    * article_id*
+    * subject_id*
 
 * tbl_Subjects
-    * id
+    * id*
     * name
     * …
 
 * tbl_ArticlesReferences
-    * article_id
-    * reference_id
+    * article_id*
+    * reference_id*
 
 * tbl_References
-    * id
+    * id*
     * name
     * …
+
+Note: * is table key
