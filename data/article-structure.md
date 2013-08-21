@@ -4,6 +4,7 @@ Articles Data Structure
 
 Articles {
 * id,
+* Title
 * Text,
 * UnitType,
 * Status [
@@ -32,6 +33,7 @@ Articles {
 
 * tbl_Articles
     * id
+    * title
     * text
     * unit_type
 
